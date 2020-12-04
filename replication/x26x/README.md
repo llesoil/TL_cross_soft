@@ -91,20 +91,24 @@ We save the size of the encoded video (kb), the elapsed time of the encoding (se
 
 ### 2 - Replication and reproduction
 
-#### 2- a] Manually launch
+#### 2- a] Manually launch measurements
 
-To launch the measures, just run the following command line in this folder:
+To launch the measures for x264, just run the following command line in this directory:
 
-`` bash ``
+``bash launchMeasures.sh x264``
 
-where:
--
--
--
+Same for x265:
+
+``bash launchMeasures.sh x265``
+
+You can add videos by editing the listVideo.csv file.
 
 #### 2- b] Docker
 
-We provide a docker image...
+We provide a docker image to replicate the measurements. 
+The videos used for this paper are already in the container, in the directory ROOT/replication/x26x/inputs.
+
+You can launch the previous commands in interactive mode.
 
 TODO
 

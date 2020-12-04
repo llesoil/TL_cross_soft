@@ -1,0 +1,31 @@
+yuv  [info]: 640x360 fps 24000/1000 i420p8 frames 0 - 478 of 479
+raw  [info]: output file: test.mp4
+x265 [info]: HEVC encoder version 3.2.1+1-b5c86a64bbbe
+x265 [info]: build info [Linux][GCC 9.3.0][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x265 [info]: Main profile, Level-2.1 (Main tier)
+x265 [info]: Thread pool created using 8 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 3 / wpp(6 rows)
+x265 [warning]: VBV is incompatible with constant QP, ignored.
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 4 inter / 4 intra
+x265 [info]: ME / range / subpel / merge         : umh / 92 / 5 / 5
+x265 [info]: Keyframe min / max / scenecut / bias: 26 / 250 / 0 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 38 / 4 / 0
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 1
+x265 [info]: References / ref-limit  cu / depth  : 2 / off / off
+x265 [info]: Rate Control                        : CQP-20
+x265 [info]: tools: rect amp rd=6 psy-rd=4.60 rdoq=2 tskip signhide tmvp cip
+x265 [info]: tools: b-intra strong-intra-smoothing deblock(tC=1:B=1) sao
+[0.2%] 1/479 frames, 2.04 fps, 10072.32 kb/s, eta 0:03:53  [0.4%] 2/479 frames, 1.14 fps, 8920.61 kb/s, eta 0:06:56  [0.6%] 3/479 frames, 0.90 fps, 8268.42 kb/s, eta 0:08:50  [0.8%] 4/479 frames, 0.71 fps, 6575.23 kb/s, eta 0:11:05  [1.0%] 5/479 frames, 0.78 fps, 6518.55 kb/s, eta 0:10:06  [1.5%] 7/479 frames, 0.96 fps, 5756.24 kb/s, eta 0:08:12  [1.7%] 8/479 frames, 0.89 fps, 5888.42 kb/s, eta 0:08:51  [1.9%] 9/479 frames, 0.73 fps, 5914.88 kb/s, eta 0:10:44  [2.5%] 12/479 frames, 0.86 fps, 5735.12 kb/s, eta 0:09:02  [2.7%] 13/479 frames, 0.83 fps, 5814.56 kb/s, eta 0:09:23  [2.9%] 14/479 frames, 0.73 fps, 5818.00 kb/s, eta 0:10:40  [3.5%] 17/479 frames, 0.81 fps, 5708.87 kb/s, eta 0:09:29  [3.8%] 18/479 frames, 0.79 fps, 5819.45 kb/s, eta 0:09:41  [4.0%] 19/479 frames, 0.72 fps, 5903.29 kb/s, eta 0:10:34  [4.2%] 20/479 frames, 0.75 fps, 5982.43 kb/s, eta 0:10:08  [4.6%] 22/479 frames, 0.79 fps, 6143.07 kb/s, eta 0:09:38  [4.8%] 23/479 frames, 0.77 fps, 6225.43 kb/s, eta 0:09:49  [5.0%] 24/479 frames, 0.74 fps, 6026.43 kb/s, eta 0:10:17  [5.2%] 25/479 frames, 0.75 fps, 6092.58 kb/s, eta 0:10:02  [5.6%] 27/479 frames, 0.79 fps, 5948.98 kb/s, eta 0:09:31  [5.8%] 28/479 frames, 0.78 fps, 5993.20 kb/s, eta 0:09:38  [6.1%] 29/479 frames, 0.74 fps, 6006.91 kb/s, eta 0:10:09  [6.7%] 32/479 frames, 0.78 fps, 5916.82 kb/s, eta 0:09:30  [6.9%] 33/479 frames, 0.78 fps, 5955.10 kb/s, eta 0:09:33  [7.1%] 34/479 frames, 0.74 fps, 5971.74 kb/s, eta 0:09:59  [7.7%] 37/479 frames, 0.78 fps, 5897.23 kb/s, eta 0:09:25  [7.9%] 38/479 frames, 0.77 fps, 5919.07 kb/s, eta 0:09:31  [8.1%] 39/479 frames, 0.74 fps, 5917.50 kb/s, eta 0:09:55  [8.8%] 42/479 frames, 0.77 fps, 5973.55 kb/s, eta 0:09:26  [9.0%] 43/479 frames, 0.76 fps, 6010.36 kb/s, eta 0:09:30  [9.2%] 44/479 frames, 0.75 fps, 5909.32 kb/s, eta 0:09:42  [9.4%] 45/479 frames, 0.75 fps, 5944.60 kb/s, eta 0:09:36  [9.8%] 47/479 frames, 0.78 fps, 5866.69 kb/s, eta 0:09:16  [10.0%] 48/479 frames, 0.77 fps, 5885.30 kb/s, eta 0:09:19  [10.2%] 49/479 frames, 0.74 fps, 5900.65 kb/s, eta 0:09:37  [10.9%] 52/479 frames, 0.77 fps, 5850.76 kb/s, eta 0:09:13  [11.1%] 53/479 frames, 0.77 fps, 5902.35 kb/s, eta 0:09:16  [11.3%] 54/479 frames, 0.74 fps, 5923.19 kb/s, eta 0:09:34  [11.9%] 57/479 frames, 0.76 fps, 5934.39 kb/s, eta 0:09:13  [12.1%] 58/479 frames, 0.76 fps, 5964.63 kb/s, eta 0:09:17  [12.3%] 59/479 frames, 0.73 fps, 5983.40 kb/s, eta 0:09:32  [12.5%] 60/479 frames, 0.74 fps, 6002.44 kb/s, eta 0:09:23  [12.9%] 62/479 frames, 0.75 fps, 6131.72 kb/s, eta 0:09:13  [13.2%] 63/479 frames, 0.75 fps, 6194.96 kb/s, eta 0:09:18  [13.4%] 64/479 frames, 0.73 fps, 6141.36 kb/s, eta 0:09:30  [13.6%] 65/479 frames, 0.73 fps, 6186.29 kb/s, eta 0:09:23  [14.0%] 67/479 frames, 0.75 fps, 6204.21 kb/s, eta 0:09:12  [14.2%] 68/479 frames, 0.74 fps, 6276.52 kb/s, eta 0:09:16  [14.4%] 69/479 frames, 0.72 fps, 6323.78 kb/s, eta 0:09:29  [14.6%] 70/479 frames, 0.73 fps, 6376.24 kb/s, eta 0:09:21  [15.0%] 72/479 frames, 0.74 fps, 6377.64 kb/s, eta 0:09:12  [15.2%] 73/479 frames, 0.73 fps, 6449.53 kb/s, eta 0:09:14  [15.4%] 74/479 frames, 0.71 fps, 6510.61 kb/s, eta 0:09:27  [16.1%] 77/479 frames, 0.73 fps, 6578.48 kb/s, eta 0:09:11  [16.3%] 78/479 frames, 0.72 fps, 6631.40 kb/s, eta 0:09:15  [16.5%] 79/479 frames, 0.70 fps, 6659.46 kb/s, eta 0:09:28  [16.7%] 80/479 frames, 0.71 fps, 6688.47 kb/s, eta 0:09:22  [17.1%] 82/479 frames, 0.72 fps, 6786.11 kb/s, eta 0:09:13  [17.3%] 83/479 frames, 0.71 fps, 6809.84 kb/s, eta 0:09:16  [17.5%] 84/479 frames, 0.70 fps, 6749.32 kb/s, eta 0:09:24  [18.2%] 87/479 frames, 0.71 fps, 6744.32 kb/s, eta 0:09:10  [18.4%] 88/479 frames, 0.71 fps, 6757.02 kb/s, eta 0:09:12  [18.6%] 89/479 frames, 0.70 fps, 6757.27 kb/s, eta 0:09:21  [19.2%] 92/479 frames, 0.71 fps, 6749.02 kb/s, eta 0:09:07  [19.4%] 93/479 frames, 0.70 fps, 6754.16 kb/s, eta 0:09:08  [19.6%] 94/479 frames, 0.69 fps, 6731.01 kb/s, eta 0:09:15  [20.3%] 97/479 frames, 0.70 fps, 6693.99 kb/s, eta 0:09:02  [20.5%] 98/479 frames, 0.70 fps, 6739.46 kb/s, eta 0:09:04  [20.7%] 99/479 frames, 0.69 fps, 6777.02 kb/s, eta 0:09:14                                                                                  x265 [info]: frame I:      1, Avg QP:17.00  kb/s: 9661.63 
+x265 [info]: frame P:     20, Avg QP:20.00  kb/s: 9110.89 
+x265 [info]: frame B:     78, Avg QP:20.74  kb/s: 6135.38 
+x265 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x265 [info]: Weighted B-Frames: Y:0.0% UV:0.0%
+x265 [info]: consecutive B-frames: 4.3% 0.0% 0.0% 0.0% 95.7% 
+
+encoded 99 frames in 146.42s (0.68 fps), 6772.11 kb/s, Avg QP:20.56
+aborted at input frame 146, output frame 99
+669.58user 0.20system 2:26.43elapsed 457%CPU (0avgtext+0avgdata 120284maxresident)k
+0inputs+6912outputs (0major+28857minor)pagefaults 0swaps

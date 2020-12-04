@@ -1,0 +1,14 @@
+x264 0.155.2917 0a84d98
+(libswscale 5.1.100)
+(libavformat 58.12.100)
+(ffmpegsource 2.23.0.0)
+built on Sep 27 2018, gcc: 8.2.0
+x264 configuration: --chroma-format=all
+libx264 configuration: --chroma-format=all
+x264 license: GPL version 2 or later
+libswscale/libavformat/ffmpegsource license: GPL version 2 or later
+
+x265 [info]: HEVC encoder version 3.2.1+1-b5c86a64bbbe
+x265 [info]: build info [Linux][GCC 9.3.0][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+

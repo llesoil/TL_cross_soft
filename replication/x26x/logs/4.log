@@ -1,0 +1,28 @@
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 4.07 fps, 2574.86 kb/s, eta 0:00:29  [12.5%] 15/120 frames, 27.99 fps, 410.17 kb/s, eta 0:00:03  [20.8%] 25/120 frames, 31.73 fps, 357.18 kb/s, eta 0:00:02  [30.0%] 36/120 frames, 33.98 fps, 283.47 kb/s, eta 0:00:02  [44.2%] 53/120 frames, 35.07 fps, 349.59 kb/s, eta 0:00:01  [55.0%] 66/120 frames, 33.93 fps, 343.04 kb/s, eta 0:00:01  [72.5%] 87/120 frames, 36.45 fps, 311.22 kb/s, eta 0:00:00  [82.5%] 99/120 frames, 35.05 fps, 307.42 kb/s, eta 0:00:00  [97.5%] 117/120 frames, 37.86 fps, 310.09 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP: 9.00  size: 52982
+x264 [info]: frame P:7     Avg QP:10.00  size: 26021
+x264 [info]: frame B:112   Avg QP:12.88  size:  4666
+x264 [info]: consecutive B-frames:  0.8%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0% 99.2%
+x264 [info]: mb I  I16..4: 29.1% 28.3% 42.6%
+x264 [info]: mb P  I16..4:  3.3%  2.7%  3.0%  P16..4: 33.5% 10.0% 14.0%  0.1%  0.0%    skip:33.5%
+x264 [info]: mb B  I16..4:  0.6%  0.3%  0.1%  B16..8: 17.6%  2.7%  1.8%  direct: 8.6%  skip:68.4%  L0:46.3% L1:46.2% BI: 7.5%
+x264 [info]: 8x8 transform intra:28.9% inter:95.4%
+x264 [info]: direct mvs  spatial:92.9% temporal:7.1%
+x264 [info]: coded y,uvDC,uvAC intra: 38.3% 13.2% 7.4% inter: 18.1% 5.4% 2.1%
+x264 [info]: i16 v,h,dc,p: 34% 64%  2%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 28% 21% 41%  1%  0%  0%  0%  2%  5%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 64% 12%  8%  2%  3%  3%  3%  3%  3%
+x264 [info]: i8c dc,h,v,p: 69% 22%  8%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 65.5%  5.2% 29.3%
+x264 [info]: ref B L0: 97.1%  2.9%
+x264 [info]: ref B L1: 97.9%  2.1%
+x264 [info]: kb/s:303.07
+
+                                                        encoded 120 frames, 38.56 fps, 303.34 kb/s
+17.81user 0.09system 0:03.18elapsed 561%CPU (0avgtext+0avgdata 103972maxresident)k
+0inputs+1496outputs (0major+20494minor)pagefaults 0swaps

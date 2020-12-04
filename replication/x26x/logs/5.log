@@ -1,0 +1,25 @@
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 0.65 fps, 980.45 kb/s, eta 0:03:04  [5.0%] 6/120 frames, 3.32 fps, 165.29 kb/s, eta 0:00:34  [14.2%] 17/120 frames, 8.04 fps, 59.55 kb/s, eta 0:00:12  [21.7%] 26/120 frames, 10.94 fps, 39.28 kb/s, eta 0:00:08  [30.0%] 36/120 frames, 13.52 fps, 28.71 kb/s, eta 0:00:06  [39.2%] 47/120 frames, 15.90 fps, 22.29 kb/s, eta 0:00:04  [71.7%] 86/120 frames, 26.64 fps, 12.71 kb/s, eta 0:00:01                                                                                 x264 [info]: frame I:1     Avg QP:26.00  size: 19748
+x264 [info]: frame P:28    Avg QP:30.00  size:    40
+x264 [info]: frame B:91    Avg QP:31.77  size:    24
+x264 [info]: consecutive B-frames:  5.0%  3.3% 15.0% 10.0%  8.3% 25.0% 11.7% 13.3%  0.0%  8.3%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 48.6% 13.8% 37.6%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.8%  0.0%  0.1%  0.0%  0.0%    skip:99.1%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.5%  0.0%  0.0%  direct: 0.0%  skip:99.5%  L0:14.2% L1:85.8% BI: 0.0%
+x264 [info]: 8x8 transform intra:13.9% inter:71.5%
+x264 [info]: direct mvs  spatial:93.4% temporal:6.6%
+x264 [info]: coded y,uvDC,uvAC intra: 40.0% 17.6% 5.2% inter: 0.0% 0.1% 0.0%
+x264 [info]: i16 v,h,dc,p: 79% 18%  2%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 27% 16% 15%  7%  4%  4%  6%  7% 14%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 48% 12% 17%  2%  4%  5%  4%  4%  5%
+x264 [info]: i8c dc,h,v,p: 67% 24%  8%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:9.20
+
+                                                        encoded 120 frames, 34.63 fps, 9.47 kb/s
+13.84user 0.40system 0:03.54elapsed 401%CPU (0avgtext+0avgdata 172996maxresident)k
+0inputs+72outputs (0major+38844minor)pagefaults 0swaps
