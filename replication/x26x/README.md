@@ -4,7 +4,7 @@
 
 #### 1- a] Goal
 
-Study differences and similarities between *x264*and *x265*'s encoding.
+Study differences and similarities between *x264* and *x265*'s encoding.
 
 #### 1- b] Configuration options
 
@@ -81,7 +81,7 @@ The file diff_x264_x265.md in the test folder contains the list of configuration
 
 #### 1- c] Configuration space
 
-The file x264_x265_options.ipynb details the generation of the chosen 5000 configurations. The configurations are the same for *x264* and *x265*.
+The file x264_x265_options.ipynb details the generation of the chosen 5000 configurations. The configurations are the same for *x264* and *x265*. We validate the sampling by applying one-sample Kolmogorov-Smirnov tests (compare the cumulative distributive functions of the generated distribution to the theorical uniform distribution, and check if the results are consistent). 
 
 Each configuration (e.g. configuration n°1) is launched by a ``.sh`` file, in the script folder (resp. the 1.sh in the x264 folder for x264). Due to the difference of logs between *x264* and *x265*, we separate the scripts measuring *x264*'s performance from the *x265*'s scripts. However, the measurement process could be optimized (TODO = unify the script with if condition depending on software).
 
