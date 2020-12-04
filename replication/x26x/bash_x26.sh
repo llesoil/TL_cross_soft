@@ -345,16 +345,14 @@ echo '--qpmax 68'
 x264 --qpmax 68 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
 echo '--qpmax 69'
 x264 --qpmax 69 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
-echo '--rc-lookahead 10'
-x264 --rc-lookahead 10 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
-echo '--rc-lookahead 20'
-x264 --rc-lookahead 20 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
-echo '--rc-lookahead 30'
-x264 --rc-lookahead 30 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
-echo '--rc-lookahead 40'
-x264 --rc-lookahead 40 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
-echo '--rc-lookahead 50'
-x264 --rc-lookahead 50 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
+echo '--rc-lookahead 18'
+x264 --rc-lookahead 18 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
+echo '--rc-lookahead 28'
+x264 --rc-lookahead 28 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
+echo '--rc-lookahead 38'
+x264 --rc-lookahead 38 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
+echo '--rc-lookahead 48'
+x264 --rc-lookahead 48 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
 echo '--ref 1'
 x264 --ref 1 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
 echo '--ref 2'
@@ -705,16 +703,14 @@ echo '--qpmax 68'
 x265 --qpmax 68 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
 echo '--qpmax 69'
 x265 --qpmax 69 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
-echo '--rc-lookahead 10'
-x265 --rc-lookahead 10 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
-echo '--rc-lookahead 20'
-x265 --rc-lookahead 20 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
-echo '--rc-lookahead 30'
-x265 --rc-lookahead 30 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
-echo '--rc-lookahead 40'
-x265 --rc-lookahead 40 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
-echo '--rc-lookahead 50'
-x265 --rc-lookahead 50 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
+echo '--rc-lookahead 18'
+x265 --rc-lookahead 18 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
+echo '--rc-lookahead 28'
+x265 --rc-lookahead 28 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
+echo '--rc-lookahead 38'
+x265 --rc-lookahead 38 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
+echo '--rc-lookahead 48'
+x265 --rc-lookahead 48 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
 echo '--ref 1'
 x265 --ref 1 --input-res 640x360 --fps 6 -o test.mp4 ./inputs/original_videos_LyricVideo_360P_LyricVideo_360P-5e87.mkv
 echo '--ref 2'
