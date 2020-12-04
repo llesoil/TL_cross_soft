@@ -77,7 +77,7 @@ We leverage **33 common configuration options** between *x264*and *x265* :
 - ``--weightb``: ['--weightb', '--no-weightb']
 
 
-The file diff_x264_x265.md in the test folder contains the list of configuration options common to *x264*and *x265*. We did not consider all of them since many of them do not have a direct influence on performances (e.g. ``--version`` or ``--help``), and due to the resulting configuration space (i.e. too large to be efficiently sampled).
+The file diff_x264_x265.md in the test folder contains the list of configuration options common to *x264* and *x265*. We did not consider all of them since many of them do not have a direct influence on performances (e.g. ``--version`` or ``--help``), and due to the resulting configuration space (i.e. too large to be efficiently sampled).
 
 #### 1- c] Configuration space
 
