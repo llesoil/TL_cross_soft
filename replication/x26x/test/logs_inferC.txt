@@ -1,0 +1,1329 @@
+START TESTING OPTIONS
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 6.19 fps, 531.26 kb/s, eta 0:00:19  [76.7%] 92/120 frames, 222.70 fps, 6.62 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:36.00  size: 10396
+x264 [info]: frame P:24    Avg QP:40.00  size:    19
+x264 [info]: frame B:95    Avg QP:41.78  size:    17
+x264 [info]: consecutive B-frames:  0.8%  5.0% 10.0% 16.7% 12.5% 20.0%  5.8% 13.3%  7.5%  8.3%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 59.5% 10.2% 30.3%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+x264 [info]: 8x8 transform intra:10.2%
+x264 [info]: coded y,uvDC,uvAC intra: 37.7% 6.4% 2.5% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 70% 24%  6%  1%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 32% 13% 29%  6%  3%  2%  2%  4%  9%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 16% 13%  3%  7%  4%  4%  4%  6%
+x264 [info]: i8c dc,h,v,p: 83% 13%  3%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:5.00
+
+                                                        encoded 120 frames, 279.97 fps, 5.27 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 27.58 fps, 880.70 kb/s, eta 0:00:04  [50.0%] 60/120 frames, 208.95 fps, 16.03 kb/s, eta 0:00:00  [85.8%] 103/120 frames, 189.31 fps, 9.89 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:28.00  size: 17671
+x264 [info]: frame P:26    Avg QP:30.00  size:    57
+x264 [info]: frame B:93    Avg QP:32.57  size:    19
+x264 [info]: consecutive B-frames:  3.3%  5.0%  5.0% 10.0% 33.3%  5.0% 17.5% 13.3%  7.5%
+x264 [info]: mb I  I16..4: 42.5% 17.6% 39.9%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  1.1%  0.1%  0.0%  0.0%  0.0%    skip:98.7%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0:29.4% L1:70.6% BI: 0.0%
+x264 [info]: 8x8 transform intra:19.2% inter:77.2%
+x264 [info]: coded y,uvDC,uvAC intra: 39.4% 9.3% 3.7% inter: 0.1% 0.1% 0.0%
+x264 [info]: i16 v,h,dc,p: 73% 19%  8%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 31% 17% 49%  0%  0%  0%  0%  0%  3%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 40% 17% 16%  2%  6%  4%  4%  5%  5%
+x264 [info]: i8c dc,h,v,p: 88%  7%  5%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 84.6% 15.4%
+x264 [info]: ref B L0: 60.0% 40.0%
+x264 [info]: ref B L1: 58.3% 41.7%
+x264 [info]: kb/s:8.35
+
+                                                        encoded 120 frames, 188.71 fps, 8.62 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile Main, level 2.2
+[0.8%] 1/120 frames, 1.33 fps, 1351.58 kb/s, eta 0:01:29  [14.2%] 17/120 frames, 16.91 fps, 80.42 kb/s, eta 0:00:06  [32.5%] 39/120 frames, 30.36 fps, 35.48 kb/s, eta 0:00:02                                                                                 x264 [info]: frame I:1     Avg QP:26.00  size: 27505
+x264 [info]: frame P:24    Avg QP:30.00  size:    22
+x264 [info]: frame B:95    Avg QP:32.56  size:    14
+x264 [info]: consecutive B-frames:  0.8%  5.0% 10.0% 16.7% 12.5% 20.0%  5.8% 13.3%  7.5%  8.3%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 100.0%  0.0%  0.0%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.2%  0.0%  0.0%  0.0%  0.0%    skip:99.8%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+x264 [info]: coded y,uvDC,uvAC intra: 52.6% 24.5% 4.8% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 61% 26% 10%  3%
+x264 [info]: i8c dc,h,v,p: 61% 22% 11%  5%
+x264 [info]: kb/s:11.76
+
+                                                        encoded 120 frames, 82.60 fps, 12.02 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 1.53 fps, 540.67 kb/s, eta 0:01:17  [14.2%] 17/120 frames, 17.05 fps, 33.34 kb/s, eta 0:00:06  [30.0%] 36/120 frames, 27.52 fps, 16.31 kb/s, eta 0:00:03  [42.5%] 51/120 frames, 32.41 fps, 11.82 kb/s, eta 0:00:02  [61.7%] 74/120 frames, 40.23 fps, 8.50 kb/s, eta 0:00:01                                                                                 x264 [info]: frame I:1     Avg QP:37.00  size: 10586
+x264 [info]: frame P:29    Avg QP:40.00  size:    39
+x264 [info]: frame B:90    Avg QP:41.78  size:    19
+x264 [info]: consecutive B-frames:  5.0%  6.7% 12.5% 13.3%  4.2% 25.0% 11.7% 13.3%  0.0%  8.3%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 50.7% 28.5% 20.9%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.2%  0.0%  1.2%  0.0%  0.0%    skip:98.5%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.2%  0.0%  0.0%  direct: 0.0%  skip:99.8%  L0:15.6% L1:83.8% BI: 0.6%
+x264 [info]: 8x8 transform intra:28.5% inter:50.0%
+x264 [info]: direct mvs  spatial:93.3% temporal:6.7%
+x264 [info]: coded y,uvDC,uvAC intra: 35.7% 12.0% 2.1% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 76% 22%  3%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 24% 12% 18%  7%  8%  6%  6%  7% 11%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 30% 10% 16%  5%  7%  7%  7%  7% 11%
+x264 [info]: i8c dc,h,v,p: 92%  6%  1%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:5.38
+
+                                                        encoded 120 frames, 57.77 fps, 5.65 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile Constrained Baseline, level 2.2
+[0.8%] 1/120 frames, 23.89 fps, 2084.16 kb/s, eta 0:00:04  [53.3%] 64/120 frames, 219.23 fps, 131.20 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:18.00  size: 42832
+x264 [info]: frame P:119   Avg QP:20.00  size:  2169
+x264 [info]: mb I  I16..4: 100.0%  0.0%  0.0%
+x264 [info]: mb P  I16..4:  2.4%  0.0%  0.0%  P16..4: 22.6%  0.0%  0.0%  0.0%  0.0%    skip:74.9%
+x264 [info]: coded y,uvDC,uvAC intra: 31.9% 12.2% 2.6% inter: 11.2% 4.8% 1.0%
+x264 [info]: i16 v,h,dc,p: 59% 32%  8%  1%
+x264 [info]: i8c dc,h,v,p: 67% 21% 11%  1%
+x264 [info]: ref P L0: 95.7%  2.4%  1.8%
+x264 [info]: kb/s:120.40
+
+                                                        encoded 120 frames, 231.88 fps, 120.63 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 1.46 fps, 2964.10 kb/s, eta 0:01:21  [14.2%] 17/120 frames, 17.35 fps, 393.73 kb/s, eta 0:00:05  [30.0%] 36/120 frames, 28.72 fps, 300.44 kb/s, eta 0:00:02  [45.8%] 55/120 frames, 35.52 fps, 275.18 kb/s, eta 0:00:01  [80.8%] 97/120 frames, 53.59 fps, 259.64 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP: 7.00  size: 61077
+x264 [info]: frame P:24    Avg QP:10.00  size: 14923
+x264 [info]: frame B:95    Avg QP:12.56  size:  2129
+x264 [info]: consecutive B-frames:  0.8%  5.0% 10.0% 16.7% 12.5% 20.0%  5.8% 13.3%  7.5%  8.3%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 42.6%  4.9% 52.5%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4: 57.7%  0.0%  0.0%  0.0%  0.0%    skip:42.3%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8: 10.3%  0.0%  0.0%  direct:12.3%  skip:77.3%  L0:38.4% L1:56.4% BI: 5.2%
+x264 [info]: 8x8 transform intra:4.9% inter:79.8%
+x264 [info]: coded y,uvDC,uvAC intra: 53.0% 22.2% 16.2% inter: 15.1% 4.5% 1.9%
+x264 [info]: i16 v,h,dc,p: 77% 18%  5%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 17% 26% 33%  2%  4%  2%  4%  2%  9%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 45% 17% 12%  3%  6%  3%  4%  4%  7%
+x264 [info]: i8c dc,h,v,p: 66% 21% 11%  2%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 85.8%  8.2%  6.0%
+x264 [info]: ref B L0: 92.4%  6.6%  1.0%
+x264 [info]: ref B L1: 98.4%  1.6%
+x264 [info]: kb/s:248.60
+
+                                                        encoded 120 frames, 63.27 fps, 248.87 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 15.41 fps, 952.70 kb/s, eta 0:00:07                                                                                 x264 [info]: frame I:1     Avg QP:26.00  size: 19266
+x264 [info]: frame P:119   Avg QP:30.00  size:    61
+x264 [info]: mb I  I16..4: 30.9% 31.3% 37.8%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.7%  0.0%  0.0%  0.0%  0.0%    skip:99.3%
+x264 [info]: 8x8 transform intra:31.3% inter:55.0%
+x264 [info]: coded y,uvDC,uvAC intra: 40.1% 18.2% 4.3% inter: 0.2% 0.1% 0.0%
+x264 [info]: i16 v,h,dc,p: 82% 16%  2%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 59% 14% 14%  2%  2%  1%  1%  3%  4%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 60% 12% 12%  2%  3%  3%  2%  3%  4%
+x264 [info]: i8c dc,h,v,p: 72% 21%  7%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 86.1%  9.0%  4.9%
+x264 [info]: kb/s:10.63
+
+                                                        encoded 120 frames, 681.17 fps, 10.86 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 5.79 fps, 203.14 kb/s, eta 0:00:20  [29.2%] 35/120 frames, 81.12 fps, 7.01 kb/s, eta 0:00:01  [63.3%] 76/120 frames, 107.12 fps, 3.89 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:46.00  size:  3571
+x264 [info]: frame P:26    Avg QP:50.00  size:    31
+x264 [info]: frame B:93    Avg QP:51.00  size:    24
+x264 [info]: consecutive B-frames:  3.3%  5.0%  5.0% 13.3% 33.3%  0.0% 17.5% 13.3%  0.0%  0.0%  9.2%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 39.0% 41.1% 19.9%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+x264 [info]: 8x8 transform intra:41.1%
+x264 [info]: coded y,uvDC,uvAC intra: 25.8% 6.1% 1.5% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 65% 23%  9%  3%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 57% 16% 18%  1%  1%  1%  2%  1%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 52% 15% 14%  2%  4%  4%  3%  4%  2%
+x264 [info]: i8c dc,h,v,p: 98%  2%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:2.65
+
+                                                        encoded 120 frames, 129.86 fps, 2.91 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 80.00 fps, 751.68 kb/s, eta 0:00:01                                                                                 x264 [info]: frame I:1     Avg QP:30.00  size: 15076
+x264 [info]: frame P:119   Avg QP:30.00  size:   105
+x264 [info]: mb I  I16..4: 41.7% 19.7% 38.6%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  1.3%  0.2%  0.1%  0.0%  0.0%    skip:98.4%
+x264 [info]: 8x8 transform intra:19.7% inter:62.8%
+x264 [info]: coded y,uvDC,uvAC intra: 39.0% 10.0% 3.7% inter: 0.6% 0.1% 0.0%
+x264 [info]: i16 v,h,dc,p: 75% 23%  2%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 36% 11% 48%  1%  0%  0%  0%  1%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 41% 16% 13%  4%  4%  5%  5%  6%  6%
+x264 [info]: i8c dc,h,v,p: 85% 11%  4%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:11.03
+
+                                                        encoded 120 frames, 1057.73 fps, 11.26 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 61.09 fps, 454.08 kb/s, eta 0:00:01                                                                                 x264 [info]: frame I:1     Avg QP:37.00  size:  8802
+x264 [info]: frame P:24    Avg QP:40.00  size:    20
+x264 [info]: frame B:95    Avg QP:41.75  size:    18
+x264 [info]: consecutive B-frames:  0.8%  0.0%  0.0%  3.3% 95.8%
+x264 [info]: mb I  I16..4: 51.1% 17.1% 31.8%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+x264 [info]: 8x8 transform intra:17.1%
+x264 [info]: coded y,uvDC,uvAC intra: 36.8% 6.1% 2.4% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 71% 25%  4%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 34% 10% 44%  2%  2%  2%  2%  3%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 43% 13% 17%  3%  4%  5%  5%  5%  5%
+x264 [info]: i8c dc,h,v,p: 94%  5%  2%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:4.40
+
+                                                        encoded 120 frames, 1474.26 fps, 4.67 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 22.94 fps, 421.25 kb/s, eta 0:00:05                                                                                 x264 [info]: frame I:1     Avg QP:40.00  size:  8100
+x264 [info]: frame P:24    Avg QP:40.00  size:    33
+x264 [info]: frame B:95    Avg QP:41.75  size:    66
+x264 [info]: consecutive B-frames:  0.8%  0.0%  0.0%  3.3% 95.8%
+x264 [info]: mb I  I16..4: 54.5% 24.9% 20.7%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.1%  0.0%  0.0%    skip:99.7%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  4.7%  0.0%  0.0%  direct: 0.0%  skip:95.3%  L0:62.6% L1:36.7% BI: 0.6%
+x264 [info]: 8x8 transform intra:24.9% inter:60.0%
+x264 [info]: direct mvs  spatial:93.7% temporal:6.3%
+x264 [info]: coded y,uvDC,uvAC intra: 31.8% 7.8% 1.5% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 77% 20%  2%  1%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20% 13% 18%  6%  9%  9%  9%  7%  9%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33%  9% 14%  6%  7%  7%  7%  7% 10%
+x264 [info]: i8c dc,h,v,p: 94%  4%  1%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 88.3%  4.8%  6.9%
+x264 [info]: ref B L0: 72.8% 27.2%
+x264 [info]: ref B L1: 99.7%  0.3%
+x264 [info]: kb/s:6.06
+
+                                                        encoded 120 frames, 595.55 fps, 6.33 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 32.49 fps, 195.74 kb/s, eta 0:00:03                                                                                 x264 [info]: frame I:1     Avg QP:46.00  size:  3421
+x264 [info]: frame P:31    Avg QP:50.00  size:    24
+x264 [info]: frame B:88    Avg QP:51.00  size:    18
+x264 [info]: consecutive B-frames:  4.2%  6.7%  5.0% 13.3% 70.8%
+x264 [info]: mb I  I16..4: 40.9% 40.3% 18.8%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0:59.3% L1:40.7% BI: 0.0%
+x264 [info]: 8x8 transform intra:40.3%
+x264 [info]: direct mvs  spatial:94.3% temporal:5.7%
+x264 [info]: coded y,uvDC,uvAC intra: 26.9% 5.2% 1.2% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 66% 23%  9%  2%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 60% 18% 14%  1%  1%  1%  1%  1%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 62% 14%  9%  2%  3%  2%  2%  2%  3%
+x264 [info]: i8c dc,h,v,p: 96%  3%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref B L0:  0.0% 100.0%
+x264 [info]: kb/s:2.28
+
+                                                        encoded 120 frames, 797.70 fps, 2.54 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 29.80 fps, 171.07 kb/s, eta 0:00:03                                                                                 x264 [info]: frame I:1     Avg QP:48.00  size:  2903
+x264 [info]: frame P:26    Avg QP:50.00  size:    28
+x264 [info]: frame B:93    Avg QP:51.00  size:    20
+x264 [info]: consecutive B-frames:  3.3%  5.0%  5.0% 13.3% 33.3%  0.0% 17.5% 13.3%  0.0%  0.0%  9.2%  0.0%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 38.4% 45.3% 16.3%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.6%  0.0%  0.0%  0.0%  0.0%    skip:99.4%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.2%  0.0%  0.0%  direct: 0.0%  skip:99.8%  L0:48.5% L1:51.5% BI: 0.0%
+x264 [info]: 8x8 transform intra:45.3%
+x264 [info]: coded y,uvDC,uvAC intra: 23.0% 6.2% 1.2% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 76% 16%  6%  2%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 49% 22% 20%  1%  1%  1%  2%  1%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 46% 20% 13%  3%  4%  5%  3%  4%  3%
+x264 [info]: i8c dc,h,v,p: 98%  1%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 97.4%  0.7%  2.0%
+x264 [info]: ref B L0: 43.8% 56.2%
+x264 [info]: ref B L1: 98.5%  1.5%
+x264 [info]: kb/s:2.18
+
+                                                        encoded 120 frames, 778.84 fps, 2.45 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 5.56 fps, 514.85 kb/s, eta 0:00:21  [26.7%] 32/120 frames, 73.64 fps, 17.24 kb/s, eta 0:00:01  [50.8%] 61/120 frames, 87.76 fps, 9.60 kb/s, eta 0:00:00  [76.7%] 92/120 frames, 94.59 fps, 6.76 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:36.00  size: 10048
+x264 [info]: frame P:26    Avg QP:40.00  size:    23
+x264 [info]: frame B:93    Avg QP:41.78  size:    25
+x264 [info]: consecutive B-frames:  3.3%  5.0%  5.0% 13.3% 29.2% 10.0% 11.7% 13.3%  0.0%  0.0%  9.2%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 36.8% 34.9% 28.3%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.6%  0.0%  0.0%  direct: 0.0%  skip:99.4%  L0:44.7% L1:55.3% BI: 0.0%
+x264 [info]: 8x8 transform intra:34.8% inter:100.0%
+x264 [info]: direct mvs  spatial:93.5% temporal:6.5%
+x264 [info]: coded y,uvDC,uvAC intra: 33.7% 13.1% 2.5% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 78% 20%  2%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 38% 13% 22%  5%  4%  5%  4%  3%  6%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44%  9% 12%  4%  6%  6%  5%  6%  9%
+x264 [info]: i8c dc,h,v,p: 92%  6%  2%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 89.6%  8.3%  0.0%  0.0%  2.1%
+x264 [info]: ref B L0: 70.9% 24.7%  4.0%  0.4%
+x264 [info]: ref B L1: 98.4%  1.6%
+x264 [info]: kb/s:5.20
+
+                                                        encoded 120 frames, 103.73 fps, 5.47 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 11.61 fps, 939.55 kb/s, eta 0:00:10                                                                                 x264 [info]: frame I:1     Avg QP:29.00  size: 18894
+x264 [info]: frame P:7     Avg QP:30.00  size:   208
+x264 [info]: frame B:112   Avg QP:30.94  size:    98
+x264 [info]: consecutive B-frames:  0.8%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0% 99.2%
+x264 [info]: mb I  I16..4: 32.2% 43.6% 24.2%
+x264 [info]: mb P  I16..4:  0.6%  0.1%  0.0%  P16..4:  8.5%  0.1%  1.4%  0.0%  0.0%    skip:89.3%
+x264 [info]: mb B  I16..4:  0.1%  0.1%  0.0%  B16..8:  6.7%  0.1%  0.0%  direct: 0.0%  skip:92.9%  L0:36.3% L1:62.8% BI: 0.9%
+x264 [info]: 8x8 transform intra:40.2% inter:54.4%
+x264 [info]: direct mvs  spatial:92.9% temporal:7.1%
+x264 [info]: coded y,uvDC,uvAC intra: 33.6% 15.9% 3.4% inter: 0.2% 0.2% 0.0%
+x264 [info]: i16 v,h,dc,p: 84% 10%  6%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19% 33% 24%  3%  3%  3%  3%  4%  7%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 32% 10% 14%  5%  8%  7%  7%  7% 11%
+x264 [info]: i8c dc,h,v,p: 86%  9%  4%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 43.6% 30.6% 22.2%  3.7%
+x264 [info]: ref B L0: 89.8%  9.7%  0.5%
+x264 [info]: ref B L1: 82.9% 17.1%
+x264 [info]: kb/s:12.53
+
+                                                        encoded 120 frames, 369.49 fps, 12.80 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 20.84 fps, 192.19 kb/s, eta 0:00:05                                                                                 x264 [info]: frame I:1     Avg QP:49.00  size:  3325
+x264 [info]: frame P:26    Avg QP:50.00  size:    48
+x264 [info]: frame B:93    Avg QP:51.00  size:    49
+x264 [info]: consecutive B-frames:  3.3%  5.0%  5.0% 13.3% 29.2% 10.0% 11.7% 13.3%  0.0%  0.0%  9.2%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 41.3% 48.2% 10.5%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.2%  0.0%  1.1%  0.0%  0.0%    skip:98.7%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  2.5%  0.0%  0.0%  direct: 0.0%  skip:97.5%  L0:54.4% L1:45.5% BI: 0.1%
+x264 [info]: 8x8 transform intra:48.2% inter:80.0%
+x264 [info]: direct mvs  spatial:93.5% temporal:6.5%
+x264 [info]: coded y,uvDC,uvAC intra: 24.7% 5.0% 1.3% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 68% 27%  5%  1%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 18% 18% 36%  4%  6%  5%  5%  3%  5%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 31% 20% 13%  5%  7%  8%  5%  5%  6%
+x264 [info]: i8c dc,h,v,p: 97%  2%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 96.5%  0.0%  3.5%
+x264 [info]: ref B L0: 64.5% 29.2%  5.9%  0.4%
+x264 [info]: ref B L1: 95.7%  4.3%
+x264 [info]: kb/s:3.64
+
+                                                        encoded 120 frames, 414.02 fps, 3.91 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 25.19 fps, 506.02 kb/s, eta 0:00:04                                                                                 x264 [info]: frame I:1     Avg QP:36.00  size:  9864
+x264 [info]: frame P:26    Avg QP:40.00  size:    21
+x264 [info]: frame B:93    Avg QP:40.00  size:    18
+x264 [info]: consecutive B-frames:  3.3%  5.0%  5.0% 13.3% 33.3%  0.0% 17.5% 13.3%  0.0%  0.0%  9.2%  0.0%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 49.2% 24.7% 26.1%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0:33.3% L1:66.7% BI: 0.0%
+x264 [info]: 8x8 transform intra:25.2% inter:100.0%
+x264 [info]: coded y,uvDC,uvAC intra: 33.2% 14.7% 2.5% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 79% 16%  5%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 34% 20% 23%  4%  4%  3%  4%  3%  5%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 50% 14% 15%  3%  3%  4%  4%  4%  3%
+x264 [info]: i8c dc,h,v,p: 93%  5%  2%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 91.7%  8.3%
+x264 [info]: ref B L0: 75.0% 25.0%
+x264 [info]: ref B L1: 75.0% 25.0%
+x264 [info]: kb/s:4.83
+
+                                                        encoded 120 frames, 660.57 fps, 5.10 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 94.40 fps, 230.93 kb/s, eta 0:00:01                                                                                 x264 [info]: frame I:1     Avg QP:46.00  size:  4216
+x264 [info]: frame P:119   Avg QP:50.00  size:    17
+x264 [info]: mb I  I16..4: 67.5% 21.2% 11.3%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+x264 [info]: 8x8 transform intra:21.2%
+x264 [info]: coded y,uvDC,uvAC intra: 32.1% 5.2% 1.7% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 67% 24%  8%  1%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 32% 18% 27%  3%  4%  3%  2%  2%  9%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 41% 12% 15%  5%  5%  5%  5%  5%  6%
+x264 [info]: i8c dc,h,v,p: 93%  7%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:2.49
+
+                                                        encoded 120 frames, 1729.63 fps, 2.73 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 1.19 fps, 1903.68 kb/s, eta 0:01:40  [4.2%] 5/120 frames, 4.50 fps, 384.01 kb/s, eta 0:00:25  [14.2%] 17/120 frames, 11.82 fps, 220.36 kb/s, eta 0:00:08  [28.3%] 34/120 frames, 19.89 fps, 125.60 kb/s, eta 0:00:04  [30.0%] 36/120 frames, 18.23 fps, 129.90 kb/s, eta 0:00:04  [39.2%] 47/120 frames, 20.30 fps, 118.12 kb/s, eta 0:00:03  [49.2%] 59/120 frames, 22.58 fps, 102.75 kb/s, eta 0:00:02  [61.7%] 74/120 frames, 25.79 fps, 100.78 kb/s, eta 0:00:01  [75.8%] 91/120 frames, 28.79 fps, 91.24 kb/s, eta 0:00:01  [83.3%] 100/120 frames, 29.26 fps, 95.27 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:17.00  size: 38981
+x264 [info]: frame P:28    Avg QP:20.00  size:  3770
+x264 [info]: frame B:91    Avg QP:21.77  size:   740
+x264 [info]: consecutive B-frames:  5.0%  3.3% 15.0% 10.0%  8.3% 25.0% 11.7% 13.3%  0.0%  8.3%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 35.3% 39.5% 25.2%
+x264 [info]: mb P  I16..4:  1.6%  0.5%  0.3%  P16..4: 21.9%  0.8%  5.3%  0.0%  0.0%    skip:69.6%
+x264 [info]: mb B  I16..4:  0.7%  0.2%  0.0%  B16..8: 18.7%  0.4%  0.4%  direct: 0.8%  skip:78.7%  L0:39.8% L1:55.2% BI: 5.0%
+x264 [info]: 8x8 transform intra:30.5% inter:61.4%
+x264 [info]: direct mvs  spatial:93.4% temporal:6.6%
+x264 [info]: coded y,uvDC,uvAC intra: 37.9% 12.9% 4.7% inter: 6.1% 3.2% 0.4%
+x264 [info]: i16 v,h,dc,p: 67% 29%  4%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 29% 15% 39%  2%  2%  2%  2%  2%  7%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 56% 10%  8%  3%  4%  4%  4%  5%  6%
+x264 [info]: i8c dc,h,v,p: 67% 21% 11%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 86.2%  6.2%  5.8%  1.8%
+x264 [info]: ref B L0: 88.1%  9.9%  2.0%
+x264 [info]: ref B L1: 94.8%  5.2%
+x264 [info]: kb/s:84.77
+
+                                                        encoded 120 frames, 33.20 fps, 85.04 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile Main, level 2.2
+[0.8%] 1/120 frames, 38.49 fps, 206.16 kb/s, eta 0:00:03                                                                                 x264 [info]: frame I:1     Avg QP:50.00  size:  3644
+x264 [info]: frame P:10    Avg QP:50.00  size:    18
+x264 [info]: frame B:109   Avg QP:51.00  size:    12
+x264 [info]: consecutive B-frames:  0.8%  1.7%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0% 97.5%
+x264 [info]: mb I  I16..4: 100.0%  0.0%  0.0%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.2%  0.0%  0.0%  0.0%  0.0%    skip:99.8%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+x264 [info]: coded y,uvDC,uvAC intra: 34.9% 6.1% 1.3% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 57% 26% 13%  4%
+x264 [info]: i8c dc,h,v,p: 97%  2%  1%  0%
+x264 [info]: kb/s:2.06
+
+                                                        encoded 120 frames, 752.70 fps, 2.32 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 8.96 fps, 478.51 kb/s, eta 0:00:13  [24.2%] 29/120 frames, 78.67 fps, 19.66 kb/s, eta 0:00:01  [48.3%] 58/120 frames, 93.22 fps, 11.05 kb/s, eta 0:00:00  [73.3%] 88/120 frames, 99.94 fps, 8.10 kb/s, eta 0:00:00  [99.2%] 119/120 frames, 105.14 fps, 6.58 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:38.00  size:  9368
+x264 [info]: frame P:119   Avg QP:40.00  size:    54
+x264 [info]: mb I  I16..4: 46.5% 31.6% 21.8%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.4%  0.0%  1.8%  0.0%  0.0%    skip:97.8%
+x264 [info]: 8x8 transform intra:31.6% inter:38.7%
+x264 [info]: coded y,uvDC,uvAC intra: 34.6% 6.4% 1.5% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 77% 21%  2%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 22% 11% 28%  6%  7%  7%  7%  4%  8%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 34%  9% 15%  5%  7%  8%  7%  6%  9%
+x264 [info]: i8c dc,h,v,p: 94%  5%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 90.2%  9.5%  0.3%
+x264 [info]: kb/s:6.30
+
+                                                        encoded 120 frames, 105.56 fps, 6.54 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 4.29 fps, 2001.55 kb/s, eta 0:00:27  [13.3%] 16/120 frames, 32.75 fps, 215.52 kb/s, eta 0:00:03  [25.0%] 30/120 frames, 38.75 fps, 138.20 kb/s, eta 0:00:02  [30.8%] 37/120 frames, 34.97 fps, 137.56 kb/s, eta 0:00:02  [40.8%] 49/120 frames, 36.80 fps, 123.07 kb/s, eta 0:00:01  [51.7%] 62/120 frames, 38.43 fps, 106.78 kb/s, eta 0:00:01  [59.2%] 71/120 frames, 37.35 fps, 109.57 kb/s, eta 0:00:01  [68.3%] 82/120 frames, 38.11 fps, 101.89 kb/s, eta 0:00:00  [80.0%] 96/120 frames, 38.06 fps, 99.02 kb/s, eta 0:00:00  [90.8%] 109/120 frames, 38.68 fps, 96.22 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:16.00  size: 41024
+x264 [info]: frame P:28    Avg QP:20.00  size:  4691
+x264 [info]: frame B:91    Avg QP:21.77  size:   611
+x264 [info]: consecutive B-frames:  4.2%  5.0%  5.0% 13.3% 33.3% 10.0% 29.2%
+x264 [info]: mb I  I16..4: 37.3% 25.7% 37.1%
+x264 [info]: mb P  I16..4:  2.1%  0.9%  0.5%  P16..4: 33.3%  1.0%  8.1%  0.0%  0.0%    skip:54.1%
+x264 [info]: mb B  I16..4:  1.2%  0.3%  0.0%  B16..8: 22.3%  0.4%  0.3%  direct: 0.9%  skip:74.6%  L0:39.9% L1:56.4% BI: 3.7%
+x264 [info]: 8x8 transform intra:23.8% inter:54.7%
+x264 [info]: direct mvs  spatial:94.5% temporal:5.5%
+x264 [info]: coded y,uvDC,uvAC intra: 33.7% 11.6% 4.3% inter: 7.2% 3.2% 1.0%
+x264 [info]: i16 v,h,dc,p: 67% 25%  8%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20% 17% 49%  1%  1%  1%  2%  2%  6%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 51%  9% 10%  4%  5%  5%  4%  6%  7%
+x264 [info]: i8c dc,h,v,p: 66% 23% 11%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 79.7%  3.8%  8.7%  2.3%  1.9%  3.3%  0.3%
+x264 [info]: ref B L0: 77.4% 12.8%  6.9%  1.9%  1.0%
+x264 [info]: ref B L1: 90.9%  9.1%
+x264 [info]: kb/s:91.20
+
+                                                        encoded 120 frames, 40.93 fps, 91.47 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile Main, level 2.2
+[0.8%] 1/120 frames, 20.68 fps, 519.41 kb/s, eta 0:00:05                                                                                 x264 [info]: frame I:1     Avg QP:40.00  size: 10168
+x264 [info]: frame P:24    Avg QP:40.00  size:    18
+x264 [info]: frame B:95    Avg QP:41.80  size:    13
+x264 [info]: consecutive B-frames:  3.3%  3.3%  2.5%  3.3% 25.0% 10.0% 52.5%
+x264 [info]: mb I  I16..4: 100.0%  0.0%  0.0%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+x264 [info]: coded y,uvDC,uvAC intra: 42.9% 10.0% 1.8% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 63% 24% 10%  2%
+x264 [info]: i8c dc,h,v,p: 92%  5%  2%  0%
+x264 [info]: kb/s:4.74
+
+                                                        encoded 120 frames, 406.78 fps, 5.00 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 33.06 fps, 379.78 kb/s, eta 0:00:03                                                                                 x264 [info]: frame I:1     Avg QP:40.00  size:  7239
+x264 [info]: frame P:48    Avg QP:40.00  size:    45
+x264 [info]: frame B:71    Avg QP:40.59  size:    24
+x264 [info]: consecutive B-frames:  5.8% 21.7% 72.5%
+x264 [info]: mb I  I16..4: 53.2% 18.4% 28.5%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.5%  0.0%  0.0%  0.0%  0.0%    skip:99.5%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.2%  skip:99.8%  L0: 0.0% L1:100.0% BI: 0.0%
+x264 [info]: 8x8 transform intra:18.4% inter:44.0%
+x264 [info]: coded y,uvDC,uvAC intra: 36.8% 5.3% 1.7% inter: 0.1% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 71% 22%  7%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19% 40% 30%  3%  2%  1%  1%  2%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 40% 17% 17%  3%  4%  5%  4%  5%  5%
+x264 [info]: i8c dc,h,v,p: 94%  4%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 96.4%  2.7%  0.9%
+x264 [info]: kb/s:4.44
+
+                                                        encoded 120 frames, 956.79 fps, 4.70 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 24.91 fps, 163.01 kb/s, eta 0:00:04                                                                                 x264 [info]: frame I:1     Avg QP:48.00  size:  2737
+x264 [info]: frame P:26    Avg QP:50.00  size:    24
+x264 [info]: frame B:93    Avg QP:50.00  size:    22
+x264 [info]: consecutive B-frames:  3.3%  5.0%  5.0% 10.0% 33.3%  5.0% 17.5% 13.3%  7.5%
+x264 [info]: mb I  I16..4: 42.4% 45.2% 12.4%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.4%  0.0%  0.0%  direct: 0.0%  skip:99.6%  L0:25.4% L1:74.6% BI: 0.0%
+x264 [info]: 8x8 transform intra:45.2%
+x264 [info]: direct mvs  spatial:93.5% temporal:6.5%
+x264 [info]: coded y,uvDC,uvAC intra: 23.4% 6.0% 1.1% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 72% 23%  4%  1%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 64% 17% 13%  1%  1%  1%  1%  1%  1%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 61% 15% 10%  2%  3%  4%  2%  2%  1%
+x264 [info]: i8c dc,h,v,p: 97%  2%  0%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref B L0: 83.1% 12.4%  3.4%  1.1%
+x264 [info]: ref B L1: 98.5%  1.5%
+x264 [info]: kb/s:2.14
+
+                                                        encoded 120 frames, 613.48 fps, 2.40 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 12.68 fps, 171.36 kb/s, eta 0:00:09  [27.5%] 33/120 frames, 100.33 fps, 6.16 kb/s, eta 0:00:00  [58.3%] 70/120 frames, 120.19 fps, 3.37 kb/s, eta 0:00:00  [85.0%] 102/120 frames, 119.41 fps, 2.59 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:49.00  size:  2892
+x264 [info]: frame P:17    Avg QP:50.00  size:    26
+x264 [info]: frame B:102   Avg QP:51.00  size:    18
+x264 [info]: consecutive B-frames:  0.8%  0.0%  0.0%  0.0%  0.0%  0.0% 99.2%
+x264 [info]: mb I  I16..4: 38.5% 48.7% 12.8%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.2%  0.0%  0.1%  0.0%  0.0%    skip:99.7%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+x264 [info]: 8x8 transform intra:48.7% inter:0.0%
+x264 [info]: coded y,uvDC,uvAC intra: 22.3% 8.6% 1.4% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 69% 27%  4%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 28% 26% 34%  1%  2%  2%  3%  2%  3%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 45% 17% 17%  3%  4%  5%  3%  5%  3%
+x264 [info]: i8c dc,h,v,p: 99%  1%  0%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 98.1%  1.9%
+x264 [info]: ref B L1: 52.0% 48.0%
+x264 [info]: kb/s:2.06
+
+                                                        encoded 120 frames, 129.44 fps, 2.33 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 4.15 fps, 3049.06 kb/s, eta 0:00:28  [49.2%] 59/120 frames, 119.39 fps, 348.69 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP: 6.00  size: 62848
+x264 [info]: frame P:24    Avg QP:10.00  size: 18362
+x264 [info]: frame B:95    Avg QP:11.78  size:  3555
+x264 [info]: consecutive B-frames:  0.8%  5.0% 10.0% 16.7% 12.5% 20.0%  5.8% 13.3%  7.5%  8.3%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 42.5%  5.1% 52.4%
+x264 [info]: mb P  I16..4:  5.1%  0.4%  1.2%  P16..4: 58.0%  0.0%  0.0%  0.0%  0.0%    skip:35.3%
+x264 [info]: mb B  I16..4:  0.3%  0.0%  0.1%  B16..8: 13.8%  0.0%  0.0%  direct:21.7%  skip:64.0%  L0:37.3% L1:56.6% BI: 6.1%
+x264 [info]: 8x8 transform intra:5.4% inter:67.9%
+x264 [info]: coded y,uvDC,uvAC intra: 39.0% 11.6% 7.3% inter: 21.8% 4.8% 2.6%
+x264 [info]: i16 v,h,dc,p: 61% 35%  4%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11% 37% 32%  1%  2%  2%  4%  0% 11%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 59% 16%  8%  3%  3%  3%  3%  3%  4%
+x264 [info]: i8c dc,h,v,p: 74% 17%  8%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 84.9%  9.2%  5.9%
+x264 [info]: ref B L0: 86.2% 12.3%  1.5%
+x264 [info]: ref B L1: 97.1%  2.9%
+x264 [info]: kb/s:336.51
+
+                                                        encoded 120 frames, 220.71 fps, 336.78 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 42.95 fps, 365.57 kb/s, eta 0:00:02                                                                                 x264 [info]: frame I:1     Avg QP:39.00  size:  6956
+x264 [info]: frame P:28    Avg QP:40.00  size:    25
+x264 [info]: frame B:91    Avg QP:41.77  size:    19
+x264 [info]: consecutive B-frames:  4.2%  5.0%  5.0% 13.3% 33.3% 10.0% 29.2%
+x264 [info]: mb I  I16..4: 37.5% 32.5% 30.0%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.0%  0.0%  0.0%    skip:99.8%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0:17.6% L1:82.4% BI: 0.0%
+x264 [info]: 8x8 transform intra:33.2% inter:100.0%
+x264 [info]: coded y,uvDC,uvAC intra: 29.1% 10.8% 1.6% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 71% 21%  7%  1%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 55% 15% 19%  2%  2%  1%  2%  1%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 58% 13% 11%  2%  3%  3%  3%  3%  3%
+x264 [info]: i8c dc,h,v,p: 95%  4%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 90.2%  9.8%
+x264 [info]: ref B L1: 92.9%  7.1%
+x264 [info]: kb/s:3.75
+
+                                                        encoded 120 frames, 718.52 fps, 4.01 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 41.40 fps, 151.39 kb/s, eta 0:00:02                                                                                 x264 [info]: frame I:1     Avg QP:50.00  size:  2479
+x264 [info]: frame P:40    Avg QP:50.00  size:    26
+x264 [info]: frame B:79    Avg QP:51.00  size:    30
+x264 [info]: consecutive B-frames:  0.8%  1.7% 97.5%
+x264 [info]: mb I  I16..4: 57.8% 37.3%  4.9%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.2%  0.0%  0.1%  0.0%  0.0%    skip:99.7%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  1.3%  0.0%  0.0%  direct: 0.0%  skip:98.7%  L0:40.3% L1:59.7% BI: 0.0%
+x264 [info]: 8x8 transform intra:37.2% inter:100.0%
+x264 [info]: direct mvs  spatial:89.9% temporal:10.1%
+x264 [info]: coded y,uvDC,uvAC intra: 22.1% 7.7% 1.2% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 76% 20%  3%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 29%  9% 28%  4%  6%  7%  5%  4%  8%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 47% 11%  7%  4%  8%  7%  4%  5%  7%
+x264 [info]: i8c dc,h,v,p: 98%  2%  0%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 95.7%  0.0%  4.3%
+x264 [info]: ref B L0: 48.6% 51.4%
+x264 [info]: kb/s:2.38
+
+                                                        encoded 120 frames, 497.96 fps, 2.65 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High 4:4:4 Predictive, level 2.2, 4:2:0 8-bit
+[0.8%] 1/120 frames, 25.63 fps, 3277.87 kb/s, eta 0:00:04  [81.7%] 98/120 frames, 321.29 fps, 655.33 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP: 0.00  size: 67726
+x264 [info]: frame P:119   Avg QP: 0.00  size: 12998
+x264 [info]: mb I  I16..4: 56.5%  0.0% 43.5%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4: 25.9%  0.8%  1.0%  0.1%  0.0%    skip:72.1%
+x264 [info]: 8x8 transform intra:0.0% inter:80.0%
+x264 [info]: coded y,uvDC,uvAC intra: 56.1% 22.2% 22.0% inter: 15.8% 4.0% 4.0%
+x264 [info]: i16 v,h,dc,p: 74% 23%  3%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 50% 28%  9%  3%  2%  2%  2%  2%  2%
+x264 [info]: i8c dc,h,v,p: 57% 28% 16%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:645.81
+
+                                                        encoded 120 frames, 344.80 fps, 646.04 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 22.35 fps, 195.22 kb/s, eta 0:00:05                                                                                 x264 [info]: frame I:1     Avg QP:46.00  size:  3409
+x264 [info]: frame P:35    Avg QP:50.00  size:    28
+x264 [info]: frame B:84    Avg QP:51.00  size:    23
+x264 [info]: consecutive B-frames:  4.2% 10.0% 15.0% 33.3% 37.5%
+x264 [info]: mb I  I16..4: 37.0% 43.9% 19.1%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+x264 [info]: 8x8 transform intra:43.9%
+x264 [info]: direct mvs  spatial:73.8% temporal:26.2%
+x264 [info]: coded y,uvDC,uvAC intra: 26.4% 6.2% 1.2% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 61% 26% 11%  2%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 54% 26% 15%  1%  1%  1%  1%  1%  1%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 64% 16%  8%  2%  3%  2%  2%  2%  1%
+x264 [info]: i8c dc,h,v,p: 96%  3%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 93.5%  0.0%  6.5%
+x264 [info]: ref B L1: 50.0% 50.0%
+x264 [info]: kb/s:2.53
+
+                                                        encoded 120 frames, 507.86 fps, 2.79 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High 4:4:4 Predictive, level 2.2, 4:2:0 8-bit
+[0.8%] 1/120 frames, 50.12 fps, 3299.42 kb/s, eta 0:00:02  [54.2%] 65/120 frames, 240.42 fps, 650.88 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP: 0.00  size: 68173
+x264 [info]: frame P:119   Avg QP: 0.00  size: 12730
+x264 [info]: mb I  I16..4: 56.4%  0.0% 43.6%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4: 24.0%  1.7%  2.1%  0.0%  0.0%    skip:72.1%
+x264 [info]: 8x8 transform intra:0.0% inter:81.9%
+x264 [info]: coded y,uvDC,uvAC intra: 56.4% 22.2% 22.0% inter: 15.3% 4.0% 4.0%
+x264 [info]: i16 v,h,dc,p: 75% 22%  3%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 45% 30%  9%  3%  3%  3%  3%  3%  2%
+x264 [info]: i8c dc,h,v,p: 57% 25% 18%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 91.9%  2.5%  3.4%  0.9%  0.6%  0.8%
+x264 [info]: kb/s:633.23
+
+                                                        encoded 120 frames, 261.73 fps, 633.46 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 32.38 fps, 180.38 kb/s, eta 0:00:03                                                                                 x264 [info]: frame I:1     Avg QP:48.00  size:  3100
+x264 [info]: frame P:48    Avg QP:50.00  size:    40
+x264 [info]: frame B:71    Avg QP:50.00  size:    18
+x264 [info]: consecutive B-frames:  6.7% 18.3% 75.0%
+x264 [info]: mb I  I16..4: 58.5% 31.6%  9.9%
+x264 [info]: mb P  I16..4:  0.1%  2.8%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:97.1%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0:47.8% L1:52.2% BI: 0.0%
+x264 [info]: 8x8 transform intra:69.0%
+x264 [info]: coded y,uvDC,uvAC intra: 13.1% 3.5% 0.5% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 71% 21%  8%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  7%  5% 86%  0%  0%  0%  0%  0%  1%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 41% 14% 15%  4%  5%  6%  5%  5%  5%
+x264 [info]: i8c dc,h,v,p: 99%  0%  0%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 85.0% 15.0%
+x264 [info]: ref B L0: 45.5% 54.5%
+x264 [info]: kb/s:2.53
+
+                                                        encoded 120 frames, 614.80 fps, 2.79 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 34.03 fps, 448.46 kb/s, eta 0:00:03                                                                                 x264 [info]: frame I:1     Avg QP:37.00  size:  8669
+x264 [info]: frame P:26    Avg QP:40.00  size:    20
+x264 [info]: frame B:93    Avg QP:41.78  size:    17
+x264 [info]: consecutive B-frames:  3.3%  5.0%  5.0% 13.3% 33.3%  0.0% 17.5% 13.3%  0.0%  0.0%  9.2%
+x264 [info]: mb I  I16..4: 47.8% 18.8% 33.4%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+x264 [info]: 8x8 transform intra:19.0% inter:0.0%
+x264 [info]: coded y,uvDC,uvAC intra: 35.8% 7.7% 1.8% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 70% 25%  6%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 31% 19% 41%  2%  1%  1%  1%  2%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 42% 15% 16%  3%  4%  5%  4%  5%  5%
+x264 [info]: i8c dc,h,v,p: 94%  4%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:4.33
+
+                                                        encoded 120 frames, 769.88 fps, 4.60 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 9.47 fps, 410.59 kb/s, eta 0:00:12  [30.8%] 37/120 frames, 100.53 fps, 12.19 kb/s, eta 0:00:00  [59.2%] 71/120 frames, 113.84 fps, 6.89 kb/s, eta 0:00:00  [89.2%] 107/120 frames, 120.89 fps, 4.95 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:38.00  size:  7893
+x264 [info]: frame P:7     Avg QP:40.00  size:    26
+x264 [info]: frame B:112   Avg QP:41.94  size:    23
+x264 [info]: consecutive B-frames:  0.8%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0% 99.2%
+x264 [info]: mb I  I16..4: 45.0% 24.1% 30.9%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0:25.0% L1:75.0% BI: 0.0%
+x264 [info]: 8x8 transform intra:24.4%
+x264 [info]: coded y,uvDC,uvAC intra: 36.0% 8.2% 1.7% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 70% 23%  7%  1%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 55% 15% 22%  1%  2%  1%  1%  1%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 45% 16% 15%  2%  6%  3%  3%  4%  5%
+x264 [info]: i8c dc,h,v,p: 94%  4%  2%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:4.27
+
+                                                        encoded 120 frames, 128.07 fps, 4.53 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 0.99 fps, 201.89 kb/s, eta 0:02:00  [8.3%] 10/120 frames, 7.61 fps, 23.46 kb/s, eta 0:00:14  [19.2%] 23/120 frames, 14.34 fps, 11.57 kb/s, eta 0:00:06  [30.0%] 36/120 frames, 19.13 fps, 8.23 kb/s, eta 0:00:04  [48.3%] 58/120 frames, 26.75 fps, 6.05 kb/s, eta 0:00:02  [77.5%] 93/120 frames, 38.43 fps, 4.69 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:49.00  size:  3528
+x264 [info]: frame P:29    Avg QP:50.00  size:    39
+x264 [info]: frame B:90    Avg QP:51.00  size:    57
+x264 [info]: consecutive B-frames:  5.0%  6.7% 12.5% 13.3%  4.2% 25.0% 11.7% 13.3%  0.0%  8.3%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 53.0% 36.6% 10.3%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.5%  0.0%  0.0%    skip:99.3%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  3.4%  0.0%  0.0%  direct: 0.0%  skip:96.6%  L0:46.9% L1:53.1% BI: 0.0%
+x264 [info]: 8x8 transform intra:36.6% inter:25.0%
+x264 [info]: direct mvs  spatial:93.3% temporal:6.7%
+x264 [info]: coded y,uvDC,uvAC intra: 25.9% 5.0% 1.3% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 72% 23%  5%  1%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 28%  8% 23%  6% 10%  8%  6%  5%  6%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33% 16%  9%  6%  8%  8%  7%  6%  7%
+x264 [info]: i8c dc,h,v,p: 97%  2%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 99.0%  0.0%  1.0%
+x264 [info]: ref B L0: 70.0% 30.0%
+x264 [info]: ref B L1: 99.0%  1.0%
+x264 [info]: kb/s:3.91
+
+                                                        encoded 120 frames, 46.04 fps, 4.19 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High 4:4:4 Predictive, level 2.2, 4:2:0 8-bit
+[0.8%] 1/120 frames, 27.63 fps, 3278.21 kb/s, eta 0:00:04  [72.5%] 87/120 frames, 302.49 fps, 568.91 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP: 0.00  size: 67732
+x264 [info]: frame P:119   Avg QP: 0.00  size: 11652
+x264 [info]: mb I  I16..4: 56.5%  0.0% 43.5%
+x264 [info]: mb P  I16..4:  3.9%  0.0%  0.3%  P16..4: 21.4%  0.6%  1.4%  0.0%  0.0%    skip:72.4%
+x264 [info]: 8x8 transform intra:0.0% inter:90.8%
+x264 [info]: coded y,uvDC,uvAC intra: 74.8% 22.5% 21.8% inter: 13.2% 3.2% 3.2%
+x264 [info]: i16 v,h,dc,p: 62% 37%  1%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 54% 30%  8%  2%  1%  2%  1%  1%  1%
+x264 [info]: i8c dc,h,v,p: 48% 25% 27%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 95.2%  2.0%  2.8%
+x264 [info]: kb/s:581.73
+
+                                                        encoded 120 frames, 309.51 fps, 581.95 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 20.78 fps, 421.49 kb/s, eta 0:00:05                                                                                 x264 [info]: frame I:1     Avg QP:37.00  size:  8123
+x264 [info]: frame P:24    Avg QP:40.00  size:    22
+x264 [info]: frame B:95    Avg QP:41.75  size:    18
+x264 [info]: consecutive B-frames:  0.8%  0.0%  0.0%  3.3% 95.8%
+x264 [info]: mb I  I16..4: 33.4% 35.9% 30.8%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.3%  0.0%  0.0%  0.0%  0.0%    skip:99.7%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.1%  0.0%  0.0%  direct: 0.0%  skip:99.9%  L0: 1.9% L1:98.1% BI: 0.0%
+x264 [info]: 8x8 transform intra:35.9% inter:100.0%
+x264 [info]: direct mvs  spatial:80.0% temporal:20.0%
+x264 [info]: coded y,uvDC,uvAC intra: 32.0% 7.1% 1.5% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 63% 30%  6%  1%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 51% 21% 19%  2%  2%  1%  2%  1%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 60% 14% 11%  2%  3%  3%  2%  2%  3%
+x264 [info]: i8c dc,h,v,p: 92%  7%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:4.14
+
+                                                        encoded 120 frames, 722.52 fps, 4.40 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 33.88 fps, 814.22 kb/s, eta 0:00:03                                                                                 x264 [info]: frame I:1     Avg QP:29.00  size: 16286
+x264 [info]: frame P:10    Avg QP:30.00  size:   119
+x264 [info]: frame B:109   Avg QP:30.00  size:    79
+x264 [info]: consecutive B-frames:  0.8%  1.7%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0% 97.5%
+x264 [info]: mb I  I16..4: 45.8% 15.0% 39.2%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  2.4%  0.0%  0.0%  0.0%  0.0%    skip:97.5%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.1%  0.0%  0.0%  direct: 0.9%  skip:98.9%  L0:11.7% L1:85.5% BI: 2.9%
+x264 [info]: 8x8 transform intra:15.0% inter:51.9%
+x264 [info]: coded y,uvDC,uvAC intra: 41.1% 8.8% 3.8% inter: 0.4% 0.1% 0.0%
+x264 [info]: i16 v,h,dc,p: 72% 26%  2%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 21% 42% 33%  1%  0%  0%  0%  1%  2%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 38% 18% 14%  4%  4%  5%  5%  6%  6%
+x264 [info]: i8c dc,h,v,p: 85% 10%  4%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 90.7%  9.3%
+x264 [info]: ref B L0: 71.4% 28.6%
+x264 [info]: ref B L1: 85.5% 14.5%
+x264 [info]: kb/s:10.45
+
+                                                        encoded 120 frames, 1341.70 fps, 10.72 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 13.96 fps, 955.06 kb/s, eta 0:00:08                                                                                 x264 [info]: frame I:1     Avg QP:26.00  size: 19237
+x264 [info]: frame P:17    Avg QP:30.00  size:    77
+x264 [info]: frame B:102   Avg QP:31.83  size:    21
+x264 [info]: consecutive B-frames:  0.8%  0.0%  0.0%  0.0%  0.0%  0.0% 99.2%
+x264 [info]: mb I  I16..4: 31.6% 30.2% 38.2%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  1.3%  0.1%  0.0%  0.0%  0.0%    skip:98.6%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.4%  0.0%  0.0%  direct: 0.0%  skip:99.6%  L0:44.6% L1:55.4% BI: 0.0%
+x264 [info]: 8x8 transform intra:30.2% inter:60.8%
+x264 [info]: direct mvs  spatial:91.2% temporal:8.8%
+x264 [info]: coded y,uvDC,uvAC intra: 39.7% 18.2% 4.3% inter: 0.1% 0.1% 0.0%
+x264 [info]: i16 v,h,dc,p: 82% 17%  1%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 61% 14% 12%  2%  1%  2%  1%  2%  3%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 57% 12% 12%  2%  2%  3%  3%  4%  4%
+x264 [info]: i8c dc,h,v,p: 72% 21%  7%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:9.07
+
+                                                        encoded 120 frames, 578.47 fps, 9.33 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 1.56 fps, 929.57 kb/s, eta 0:01:16  [8.3%] 10/120 frames, 10.97 fps, 99.48 kb/s, eta 0:00:10  [19.2%] 23/120 frames, 19.69 fps, 44.91 kb/s, eta 0:00:04  [32.5%] 39/120 frames, 26.89 fps, 27.55 kb/s, eta 0:00:03  [43.3%] 52/120 frames, 29.93 fps, 21.16 kb/s, eta 0:00:02  [60.8%] 73/120 frames, 36.55 fps, 15.64 kb/s, eta 0:00:01  [83.3%] 100/120 frames, 44.50 fps, 11.98 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:28.00  size: 18691
+x264 [info]: frame P:28    Avg QP:30.00  size:    98
+x264 [info]: frame B:91    Avg QP:31.77  size:    39
+x264 [info]: consecutive B-frames:  5.0%  3.3% 15.0% 10.0%  8.3% 25.0% 11.7% 13.3%  0.0%  8.3%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 48.0% 21.3% 30.7%
+x264 [info]: mb P  I16..4:  0.1%  0.0%  0.0%  P16..4:  2.8%  0.0%  0.4%  0.0%  0.0%    skip:96.7%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  2.0%  0.0%  0.0%  direct: 0.0%  skip:98.0%  L0:25.7% L1:74.0% BI: 0.4%
+x264 [info]: 8x8 transform intra:22.4% inter:56.0%
+x264 [info]: direct mvs  spatial:93.4% temporal:6.6%
+x264 [info]: coded y,uvDC,uvAC intra: 37.3% 22.6% 4.3% inter: 0.1% 0.2% 0.0%
+x264 [info]: i16 v,h,dc,p: 70% 27%  3%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 21% 25% 19%  4%  4%  4%  5%  7% 11%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 35%  8% 18%  4%  5%  7%  5%  7% 10%
+x264 [info]: i8c dc,h,v,p: 73% 20%  7%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 71.6% 16.8%  6.2%  1.3%  2.9%  1.1%
+x264 [info]: ref B L0: 85.2% 12.5%  1.4%  0.9%
+x264 [info]: ref B L1: 81.3% 18.7%
+x264 [info]: kb/s:10.01
+
+                                                        encoded 120 frames, 50.95 fps, 10.28 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile Main, level 2.2
+[0.8%] 1/120 frames, 12.59 fps, 520.42 kb/s, eta 0:00:09  [75.8%] 91/120 frames, 266.89 fps, 6.94 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:40.00  size: 10173
+x264 [info]: frame P:24    Avg QP:40.00  size:    45
+x264 [info]: frame B:95    Avg QP:40.00  size:    19
+x264 [info]: consecutive B-frames:  3.3%  3.3%  0.0% 10.0% 33.3% 10.0% 11.7% 13.3% 15.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 100.0%  0.0%  0.0%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.8%  0.0%  0.0%  0.0%  0.0%    skip:99.2%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+x264 [info]: coded y,uvDC,uvAC intra: 42.8% 10.0% 1.8% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 63% 24% 10%  2%
+x264 [info]: i8c dc,h,v,p: 92%  5%  2%  0%
+x264 [info]: ref B L1: 26.7% 73.3%
+x264 [info]: kb/s:5.24
+
+                                                        encoded 120 frames, 315.92 fps, 5.51 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 22.26 fps, 1806.58 kb/s, eta 0:00:05                                                                                 x264 [info]: frame I:1     Avg QP:16.00  size: 36981
+x264 [info]: frame P:35    Avg QP:20.00  size:  3312
+x264 [info]: frame B:84    Avg QP:21.70  size:   534
+x264 [info]: consecutive B-frames:  4.2% 10.0% 15.0% 33.3% 37.5%
+x264 [info]: mb I  I16..4: 36.8% 23.7% 39.5%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4: 25.0%  1.1%  1.3%  0.0%  0.0%    skip:72.6%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  3.8%  0.7%  0.0%  direct: 2.4%  skip:93.1%  L0:31.1% L1:66.4% BI: 2.6%
+x264 [info]: 8x8 transform intra:23.7% inter:76.2%
+x264 [info]: coded y,uvDC,uvAC intra: 49.9% 21.0% 9.8% inter: 6.8% 2.5% 0.2%
+x264 [info]: i16 v,h,dc,p: 76% 22%  3%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 41% 18% 20%  3%  3%  2%  3%  3%  6%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 54% 12% 10%  3%  4%  5%  4%  4%  4%
+x264 [info]: i8c dc,h,v,p: 68% 21% 10%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 82.7%  5.5%  4.0%  4.5%  2.7%  0.6%
+x264 [info]: ref B L0: 81.1% 11.4%  5.4%  1.1%  1.0%
+x264 [info]: ref B L1: 82.9% 17.1%
+x264 [info]: kb/s:79.11
+
+                                                        encoded 120 frames, 409.34 fps, 79.37 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 84.85 fps, 1549.15 kb/s, eta 0:00:01                                                                                 x264 [info]: frame I:1     Avg QP:20.00  size: 31678
+x264 [info]: frame P:119   Avg QP:20.00  size:  2920
+x264 [info]: mb I  I16..4: 48.8%  7.8% 43.4%
+x264 [info]: mb P  I16..4:  1.5%  0.1%  0.1%  P16..4: 23.5%  0.0%  0.0%  0.0%  0.0%    skip:74.8%
+x264 [info]: 8x8 transform intra:8.4% inter:63.8%
+x264 [info]: coded y,uvDC,uvAC intra: 33.8% 10.1% 3.2% inter: 17.4% 2.3% 0.9%
+x264 [info]: i16 v,h,dc,p: 59% 36%  5%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 18% 30% 38%  0%  1%  1%  3%  0%  8%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 48% 16%  9%  4%  4%  4%  4%  5%  5%
+x264 [info]: i8c dc,h,v,p: 70% 20%  8%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 92.4%  3.2%  1.7%  0.6%  0.8%  1.3%
+x264 [info]: kb/s:151.65
+
+                                                        encoded 120 frames, 1213.41 fps, 151.89 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 12.13 fps, 3003.02 kb/s, eta 0:00:09  [38.3%] 46/120 frames, 138.28 fps, 442.40 kb/s, eta 0:00:00  [75.0%] 90/120 frames, 154.35 fps, 415.94 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP: 7.00  size: 61893
+x264 [info]: frame P:44    Avg QP:10.00  size: 13923
+x264 [info]: frame B:75    Avg QP:10.56  size:  4749
+x264 [info]: consecutive B-frames:  2.5% 15.0% 82.5%
+x264 [info]: mb I  I16..4: 42.5%  4.7% 52.8%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4: 59.5%  0.0%  0.0%  0.0%  0.0%    skip:40.5%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8: 17.9%  0.0%  0.0%  direct:26.9%  skip:55.2%  L0:39.7% L1:55.3% BI: 5.0%
+x264 [info]: 8x8 transform intra:4.7% inter:60.9%
+x264 [info]: coded y,uvDC,uvAC intra: 53.0% 22.2% 16.2% inter: 30.6% 5.6% 3.4%
+x264 [info]: i16 v,h,dc,p: 77% 18%  5%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 13% 28% 35%  1%  6%  2%  3%  2%  9%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 45% 16% 12%  3%  6%  3%  4%  4%  7%
+x264 [info]: i8c dc,h,v,p: 66% 21% 11%  2%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 81.2% 18.8%
+x264 [info]: ref B L0: 74.6% 25.4%
+x264 [info]: kb/s:412.28
+
+                                                        encoded 120 frames, 164.82 fps, 412.55 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 47.09 fps, 1765.97 kb/s, eta 0:00:02                                                                                 x264 [info]: frame I:1     Avg QP:17.00  size: 36137
+x264 [info]: frame P:44    Avg QP:20.00  size:  2396
+x264 [info]: frame B:75    Avg QP:22.12  size:   544
+x264 [info]: consecutive B-frames:  2.5% 15.0% 82.5%
+x264 [info]: mb I  I16..4: 45.9%  6.2% 47.9%
+x264 [info]: mb P  I16..4:  1.4%  0.2%  0.0%  P16..4: 23.4%  0.0%  0.0%  0.0%  0.0%    skip:75.0%
+x264 [info]: mb B  I16..4:  0.1%  0.0%  0.0%  B16..8:  1.1%  0.0%  0.0%  direct: 3.0%  skip:95.8%  L0:13.8% L1:84.1% BI: 2.1%
+x264 [info]: 8x8 transform intra:8.6% inter:58.0%
+x264 [info]: coded y,uvDC,uvAC intra: 49.6% 17.5% 6.0% inter: 5.9% 2.0% 0.2%
+x264 [info]: i16 v,h,dc,p: 71% 23%  6%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 23% 32% 26%  1%  1%  0%  3%  1% 14%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 50% 14%  9%  4%  4%  4%  4%  5%  5%
+x264 [info]: i8c dc,h,v,p: 60% 24% 15%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 94.2%  3.1%  2.7%  0.0%
+x264 [info]: ref B L0: 81.0% 15.5%  3.4%
+x264 [info]: kb/s:72.96
+
+                                                        encoded 120 frames, 1132.56 fps, 73.22 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 2.2
+[0.8%] 1/120 frames, 10.02 fps, 608.26 kb/s, eta 0:00:11                                                                                 x264 [info]: frame I:1     Avg QP:38.00  size: 12005
+x264 [info]: frame P:24    Avg QP:40.00  size:    15
+x264 [info]: frame B:95    Avg QP:41.78  size:    13
+x264 [info]: consecutive B-frames:  0.8%  5.0%  7.5% 16.7% 16.7% 20.0% 11.7%  6.7% 15.0%
+x264 [info]: mb I  I16..4: 100.0%  0.0%  0.0%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+x264 [info]: coded y,uvDC,uvAC intra: 44.5% 7.5% 2.0% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 60% 24% 12%  3%
+x264 [info]: i8c dc,h,v,p: 88%  9%  3%  0%
+x264 [info]: kb/s:5.46
+
+                                                        encoded 120 frames, 427.19 fps, 5.72 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 4.54 fps, 1777.73 kb/s, eta 0:00:26  [15.8%] 19/120 frames, 40.09 fps, 184.62 kb/s, eta 0:00:02  [31.7%] 38/120 frames, 52.06 fps, 123.96 kb/s, eta 0:00:01  [50.8%] 61/120 frames, 60.42 fps, 92.34 kb/s, eta 0:00:00  [65.0%] 78/120 frames, 60.44 fps, 88.17 kb/s, eta 0:00:00  [80.0%] 96/120 frames, 60.80 fps, 85.03 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:16.00  size: 36375
+x264 [info]: frame P:26    Avg QP:20.00  size:  4506
+x264 [info]: frame B:93    Avg QP:21.78  size:   432
+x264 [info]: consecutive B-frames:  3.3%  5.0%  5.0% 13.3% 29.2% 10.0% 11.7% 13.3%  0.0%  0.0%  9.2%  0.0%  0.0%  0.0%  0.0%
+x264 [info]: mb I  I16..4: 35.3% 22.8% 41.8%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4: 30.6%  0.9%  3.4%  0.0%  0.0%    skip:65.1%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  7.9%  0.2%  0.0%  direct: 0.2%  skip:91.7%  L0:33.6% L1:64.3% BI: 2.1%
+x264 [info]: 8x8 transform intra:22.8% inter:74.2%
+x264 [info]: direct mvs  spatial:93.5% temporal:6.5%
+x264 [info]: coded y,uvDC,uvAC intra: 49.0% 21.1% 9.7% inter: 6.2% 2.1% 0.2%
+x264 [info]: i16 v,h,dc,p: 78% 20%  1%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 16% 22% 43%  3%  2%  1%  2%  4%  6%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 56% 12% 13%  2%  3%  3%  3%  3%  4%
+x264 [info]: i8c dc,h,v,p: 66% 23%  9%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 87.7%  4.5%  3.8%  2.6%  1.3%
+x264 [info]: ref B L0: 96.2%  2.9%  0.9%
+x264 [info]: ref B L1: 97.9%  2.1%
+x264 [info]: kb/s:77.46
+
+                                                        encoded 120 frames, 66.39 fps, 77.73 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: none!
+x264 [info]: profile High 4:4:4 Predictive, level 2.2, 4:2:0 8-bit
+[0.8%] 1/120 frames, 18.90 fps, 3278.16 kb/s, eta 0:00:06  [6.7%] 8/120 frames, 24.80 fps, 1218.08 kb/s, eta 0:00:04  [15.8%] 19/120 frames, 31.84 fps, 884.75 kb/s, eta 0:00:03  [25.8%] 31/120 frames, 35.96 fps, 650.22 kb/s, eta 0:00:02  [35.8%] 43/120 frames, 38.13 fps, 685.68 kb/s, eta 0:00:02  [46.7%] 56/120 frames, 40.37 fps, 645.20 kb/s, eta 0:00:01  [55.0%] 66/120 frames, 39.69 fps, 675.75 kb/s, eta 0:00:01  [65.8%] 79/120 frames, 41.18 fps, 674.12 kb/s, eta 0:00:00  [76.7%] 92/120 frames, 42.30 fps, 637.42 kb/s, eta 0:00:00  [85.8%] 103/120 frames, 42.32 fps, 671.96 kb/s, eta 0:00:00  [99.2%] 119/120 frames, 44.34 fps, 635.48 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP: 0.00  size: 67732
+x264 [info]: frame P:119   Avg QP: 0.00  size: 12736
+x264 [info]: mb I  I16..4: 56.5%  0.0% 43.5%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4: 24.2%  1.3%  2.1%  0.1%  0.0%    skip:72.2%
+x264 [info]: 8x8 transform intra:0.0% inter:79.4%
+x264 [info]: coded y,uvDC,uvAC intra: 56.1% 22.2% 22.0% inter: 15.4% 4.0% 4.0%
+x264 [info]: i16 v,h,dc,p: 74% 23%  3%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 50% 28%  9%  3%  2%  2%  2%  2%  2%
+x264 [info]: i8c dc,h,v,p: 57% 28% 16%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 91.9%  2.5%  3.3%  0.9%  0.6%  0.8%
+x264 [info]: kb/s:633.31
+
+                                                        encoded 120 frames, 44.50 fps, 633.54 kb/s
+[info]: indexing input file [0.8%]                                      ffms [info]: 640x360p 1:1 @ 500000/83333 fps (cfr)
+x264 [warning]: VBV is incompatible with constant QP, ignored.
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile High, level 2.2
+[0.8%] 1/120 frames, 11.44 fps, 2108.93 kb/s, eta 0:00:10  [65.0%] 78/120 frames, 228.21 fps, 107.05 kb/s, eta 0:00:00                                                                                 x264 [info]: frame I:1     Avg QP:16.00  size: 43259
+x264 [info]: frame P:48    Avg QP:20.00  size:  2705
+x264 [info]: frame B:71    Avg QP:21.59  size:   787
+x264 [info]: consecutive B-frames:  5.8% 21.7% 72.5%
+x264 [info]: mb I  I16..4: 45.4% 24.8% 29.8%
+x264 [info]: mb P  I16..4:  0.9%  0.5%  0.2%  P16..4: 16.3%  1.1%  3.4%  0.0%  0.0%    skip:77.6%
+x264 [info]: mb B  I16..4:  0.7%  0.4%  0.0%  B16..8: 14.3%  0.4%  0.5%  direct: 1.2%  skip:82.6%  L0:46.3% L1:48.0% BI: 5.7%
+x264 [info]: 8x8 transform intra:28.8% inter:58.6%
+x264 [info]: direct mvs  spatial:91.5% temporal:8.5%
+x264 [info]: coded y,uvDC,uvAC intra: 41.2% 15.7% 5.8% inter: 6.3% 3.6% 0.4%
+x264 [info]: i16 v,h,dc,p: 61% 34%  5%  0%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 31% 15% 40%  1%  1%  2%  1%  2%  6%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 50%  8% 10%  4%  5%  5%  5%  6%  7%
+x264 [info]: i8c dc,h,v,p: 64% 23% 12%  1%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 90.1%  5.9%  3.9%
+x264 [info]: ref B L0: 79.3% 20.7%
+x264 [info]: kb/s:91.58
+
+                                                        encoded 120 frames, 261.76 fps, 91.85 kb/s
+yuv  [info]: 640x360 fps 6000/1000 i420p8 frames 0 - 119 of 120
+raw  [info]: output file: ../test.mp4
+x265 [info]: HEVC encoder version 3.2.1+1-b5c86a64bbbe
+x265 [info]: build info [Linux][GCC 9.3.0][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: none!
+x265 [info]: Main profile, Level-2.1 (Main tier)
+x265 [info]: Thread pool created using 8 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 3 / wpp(6 rows)
+x265 [warning]: VBV is incompatible with constant QP, ignored.
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 3 inter / 3 intra
+x265 [info]: ME / range / subpel / merge         : umh / 57 / 4 / 4
+x265 [info]: Keyframe min / max / scenecut / bias: 29 / 260 / 40 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 48 / 2 / 1
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 4 / off / on
+x265 [info]: Rate Control                        : CQP-0
+x265 [info]: tools: rect amp limit-modes rd=6 psy-rd=2.40 rdoq=2 psy-rdoq=1.00
+x265 [info]: tools: rskip limit-tu=4 signhide tmvp b-intra
+x265 [info]: tools: strong-intra-smoothing deblock(tC=-1:B=-1) sao
+[0.8%] 1/120 frames, 1.43 fps, 4077.46 kb/s, eta 0:01:23  [1.7%] 2/120 frames, 1.14 fps, 2668.75 kb/s, eta 0:01:43  [2.5%] 3/120 frames, 0.92 fps, 1992.18 kb/s, eta 0:02:06  [4.2%] 5/120 frames, 1.07 fps, 1474.10 kb/s, eta 0:01:47  [5.0%] 6/120 frames, 1.03 fps, 1824.75 kb/s, eta 0:01:50  [5.8%] 7/120 frames, 0.90 fps, 1671.62 kb/s, eta 0:02:04  [6.7%] 8/120 frames, 0.91 fps, 1864.70 kb/s, eta 0:02:03  [7.5%] 9/120 frames, 0.80 fps, 1865.30 kb/s, eta 0:02:18  [9.2%] 11/120 frames, 0.87 fps, 1737.28 kb/s, eta 0:02:05  [10.0%] 12/120 frames, 0.85 fps, 1665.40 kb/s, eta 0:02:06  [10.8%] 13/120 frames, 0.85 fps, 1589.12 kb/s, eta 0:02:06  [11.7%] 14/120 frames, 0.85 fps, 1526.41 kb/s, eta 0:02:05  [12.5%] 15/120 frames, 0.82 fps, 1552.96 kb/s, eta 0:02:07  [13.3%] 16/120 frames, 0.81 fps, 1557.88 kb/s, eta 0:02:07  [14.2%] 17/120 frames, 0.80 fps, 1526.23 kb/s, eta 0:02:08  [15.0%] 18/120 frames, 0.77 fps, 1625.11 kb/s, eta 0:02:13  [15.8%] 19/120 frames, 0.74 fps, 1596.91 kb/s, eta 0:02:16  [17.5%] 21/120 frames, 0.78 fps, 1510.55 kb/s, eta 0:02:07  [18.3%] 22/120 frames, 0.80 fps, 1474.02 kb/s, eta 0:02:02  [19.2%] 23/120 frames, 0.80 fps, 1438.09 kb/s, eta 0:02:01  [20.0%] 24/120 frames, 0.80 fps, 1395.01 kb/s, eta 0:02:00  [20.8%] 25/120 frames, 0.82 fps, 1360.54 kb/s, eta 0:01:55  [21.7%] 26/120 frames, 0.82 fps, 1346.66 kb/s, eta 0:01:55  [22.5%] 27/120 frames, 0.80 fps, 1318.84 kb/s, eta 0:01:55  [24.2%] 29/120 frames, 0.83 fps, 1281.55 kb/s, eta 0:01:49  [25.0%] 30/120 frames, 0.82 fps, 1251.67 kb/s, eta 0:01:49  [25.8%] 31/120 frames, 0.83 fps, 1309.18 kb/s, eta 0:01:47  [26.7%] 32/120 frames, 0.82 fps, 1291.22 kb/s, eta 0:01:46  [27.5%] 33/120 frames, 0.82 fps, 1277.72 kb/s, eta 0:01:46  [28.3%] 34/120 frames, 0.81 fps, 1252.61 kb/s, eta 0:01:46  [30.0%] 36/120 frames, 0.81 fps, 1299.28 kb/s, eta 0:01:43  [30.8%] 37/120 frames, 0.80 fps, 1341.92 kb/s, eta 0:01:43  [31.7%] 38/120 frames, 0.79 fps, 1365.12 kb/s, eta 0:01:44  [32.5%] 39/120 frames, 0.77 fps, 1361.02 kb/s, eta 0:01:44  [34.2%] 41/120 frames, 0.79 fps, 1343.50 kb/s, eta 0:01:40  [35.0%] 42/120 frames, 0.77 fps, 1385.18 kb/s, eta 0:01:41  [35.8%] 43/120 frames, 0.76 fps, 1375.78 kb/s, eta 0:01:41  [37.5%] 45/120 frames, 0.77 fps, 1347.93 kb/s, eta 0:01:36  [38.3%] 46/120 frames, 0.78 fps, 1360.51 kb/s, eta 0:01:34  [39.2%] 47/120 frames, 0.77 fps, 1354.02 kb/s, eta 0:01:34  [40.0%] 48/120 frames, 0.78 fps, 1382.41 kb/s, eta 0:01:31  [40.8%] 49/120 frames, 0.77 fps, 1384.03 kb/s, eta 0:01:32  [42.5%] 51/120 frames, 0.79 fps, 1363.07 kb/s, eta 0:01:27  [44.2%] 53/120 frames, 0.80 fps, 1336.50 kb/s, eta 0:01:23  [45.0%] 54/120 frames, 0.80 fps, 1322.62 kb/s, eta 0:01:22  [45.8%] 55/120 frames, 0.79 fps, 1349.96 kb/s, eta 0:01:22  [46.7%] 56/120 frames, 0.79 fps, 1346.95 kb/s, eta 0:01:21  [47.5%] 57/120 frames, 0.78 fps, 1334.57 kb/s, eta 0:01:20  [49.2%] 59/120 frames, 0.79 fps, 1313.93 kb/s, eta 0:01:16  [50.0%] 60/120 frames, 0.79 fps, 1328.69 kb/s, eta 0:01:16  [50.8%] 61/120 frames, 0.78 fps, 1326.49 kb/s, eta 0:01:15  [51.7%] 62/120 frames, 0.78 fps, 1321.72 kb/s, eta 0:01:14  [52.5%] 63/120 frames, 0.78 fps, 1320.05 kb/s, eta 0:01:13  [53.3%] 64/120 frames, 0.77 fps, 1350.31 kb/s, eta 0:01:13  [54.2%] 65/120 frames, 0.76 fps, 1342.96 kb/s, eta 0:01:12  [55.0%] 66/120 frames, 0.77 fps, 1368.15 kb/s, eta 0:01:10  [55.8%] 67/120 frames, 0.76 fps, 1392.44 kb/s, eta 0:01:09  [56.7%] 68/120 frames, 0.76 fps, 1390.72 kb/s, eta 0:01:08  [57.5%] 69/120 frames, 0.76 fps, 1381.83 kb/s, eta 0:01:07  [58.3%] 70/120 frames, 0.76 fps, 1373.31 kb/s, eta 0:01:06  [59.2%] 71/120 frames, 0.75 fps, 1367.70 kb/s, eta 0:01:04  [60.0%] 72/120 frames, 0.75 fps, 1355.38 kb/s, eta 0:01:03  [61.7%] 74/120 frames, 0.76 fps, 1337.30 kb/s, eta 0:01:00  [62.5%] 75/120 frames, 0.76 fps, 1328.97 kb/s, eta 0:00:58  [63.3%] 76/120 frames, 0.76 fps, 1325.74 kb/s, eta 0:00:57  [64.2%] 77/120 frames, 0.76 fps, 1341.06 kb/s, eta 0:00:56  [65.0%] 78/120 frames, 0.76 fps, 1342.48 kb/s, eta 0:00:55  [65.8%] 79/120 frames, 0.75 fps, 1361.67 kb/s, eta 0:00:54  [66.7%] 80/120 frames, 0.75 fps, 1355.82 kb/s, eta 0:00:53  [67.5%] 81/120 frames, 0.75 fps, 1348.52 kb/s, eta 0:00:51  [68.3%] 82/120 frames, 0.75 fps, 1343.08 kb/s, eta 0:00:50  [69.2%] 83/120 frames, 0.75 fps, 1340.20 kb/s, eta 0:00:49  [70.0%] 84/120 frames, 0.74 fps, 1329.51 kb/s, eta 0:00:48  [71.7%] 86/120 frames, 0.75 fps, 1311.54 kb/s, eta 0:00:45  [72.5%] 87/120 frames, 0.75 fps, 1306.49 kb/s, eta 0:00:43  [73.3%] 88/120 frames, 0.75 fps, 1301.07 kb/s, eta 0:00:42  [74.2%] 89/120 frames, 0.75 fps, 1313.88 kb/s, eta 0:00:41  [75.0%] 90/120 frames, 0.74 fps, 1331.96 kb/s, eta 0:00:40  [75.8%] 91/120 frames, 0.74 fps, 1332.64 kb/s, eta 0:00:39  [77.5%] 93/120 frames, 0.75 fps, 1325.59 kb/s, eta 0:00:36  [78.3%] 94/120 frames, 0.75 fps, 1316.06 kb/s, eta 0:00:34  [79.2%] 95/120 frames, 0.75 fps, 1317.69 kb/s, eta 0:00:33  [80.0%] 96/120 frames, 0.75 fps, 1315.84 kb/s, eta 0:00:31  [80.8%] 97/120 frames, 0.75 fps, 1339.86 kb/s, eta 0:00:30  [81.7%] 98/120 frames, 0.74 fps, 1334.25 kb/s, eta 0:00:29  [82.5%] 99/120 frames, 0.75 fps, 1352.69 kb/s, eta 0:00:28  [83.3%] 100/120 frames, 0.74 fps, 1357.47 kb/s, eta 0:00:26  [84.2%] 101/120 frames, 0.74 fps, 1354.45 kb/s, eta 0:00:25  [85.8%] 103/120 frames, 0.74 fps, 1365.44 kb/s, eta 0:00:22  [86.7%] 104/120 frames, 0.74 fps, 1359.67 kb/s, eta 0:00:21  [87.5%] 105/120 frames, 0.74 fps, 1352.85 kb/s, eta 0:00:20  [88.3%] 106/120 frames, 0.74 fps, 1347.44 kb/s, eta 0:00:18  [89.2%] 107/120 frames, 0.74 fps, 1341.20 kb/s, eta 0:00:17  [90.0%] 108/120 frames, 0.74 fps, 1334.15 kb/s, eta 0:00:16  [90.8%] 109/120 frames, 0.74 fps, 1326.88 kb/s, eta 0:00:14  [91.7%] 110/120 frames, 0.74 fps, 1336.36 kb/s, eta 0:00:13  [92.5%] 111/120 frames, 0.74 fps, 1334.40 kb/s, eta 0:00:12  [93.3%] 112/120 frames, 0.74 fps, 1328.90 kb/s, eta 0:00:10  [94.2%] 113/120 frames, 0.74 fps, 1322.57 kb/s, eta 0:00:09  [95.0%] 114/120 frames, 0.74 fps, 1316.80 kb/s, eta 0:00:08  [95.8%] 115/120 frames, 0.74 fps, 1329.13 kb/s, eta 0:00:06  [96.7%] 116/120 frames, 0.74 fps, 1323.86 kb/s, eta 0:00:05  [98.3%] 118/120 frames, 0.74 fps, 1312.73 kb/s, eta 0:00:02  [99.2%] 119/120 frames, 0.74 fps, 1306.57 kb/s, eta 0:00:01  [100.0%] 120/120 frames, 0.74 fps, 1301.88 kb/s, eta 0:00:00                                                                                  x265 [info]: frame I:      1, Avg QP:0.00  kb/s: 3976.13 
+x265 [info]: frame P:     94, Avg QP:0.00  kb/s: 1407.65 
+x265 [info]: frame B:     25, Avg QP:0.00  kb/s: 792.23  
+x265 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x265 [info]: consecutive B-frames: 73.7% 26.3% 0.0% 
+
+encoded 120 frames in 161.25s (0.74 fps), 1300.84 kb/s, Avg QP:0.00
+yuv  [info]: 640x360 fps 6000/1000 i420p8 frames 0 - 119 of 120
+raw  [info]: output file: ../test.mp4
+x265 [info]: HEVC encoder version 3.2.1+1-b5c86a64bbbe
+x265 [info]: build info [Linux][GCC 9.3.0][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: none!
+x265 [info]: Main profile, Level-3 (Main tier)
+x265 [info]: Thread pool created using 5 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 3 / wpp(6 rows)
+x265 [info]: Thread pool created using 3 threads
+x265 [warning]: Source height < 720p; disabling lookahead-slices
+x265 [warning]: VBV is incompatible with constant QP, ignored.
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 1 inter / 1 intra
+x265 [info]: ME / range / subpel / merge         : dia / 57 / 2 / 2
+x265 [info]: Keyframe min / max / scenecut / bias: 26 / 250 / 30 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 28 / 4 / 1
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 6 / on / on
+x265 [info]: Rate Control                        : CQP-50
+x265 [info]: tools: rd=2 psy-rd=2.20 early-skip rskip signhide tmvp cip
+x265 [info]: tools: fast-intra strong-intra-smoothing lthreads=3
+x265 [info]: tools: deblock(tC=1:B=1) sao
+[0.8%] 1/120 frames, 2.54 fps, 222.34 kb/s, eta 0:00:46  [10.0%] 12/120 frames, 17.80 fps, 24.86 kb/s, eta 0:00:06  [18.3%] 22/120 frames, 23.61 fps, 17.08 kb/s, eta 0:00:04  [26.7%] 32/120 frames, 25.74 fps, 13.74 kb/s, eta 0:00:03  [34.2%] 41/120 frames, 27.21 fps, 12.39 kb/s, eta 0:00:02  [43.3%] 52/120 frames, 29.54 fps, 11.27 kb/s, eta 0:00:02  [52.5%] 63/120 frames, 30.93 fps, 10.62 kb/s, eta 0:00:01  [60.8%] 73/120 frames, 31.65 fps, 10.08 kb/s, eta 0:00:01  [68.3%] 82/120 frames, 31.92 fps, 9.87 kb/s, eta 0:00:01  [77.5%] 93/120 frames, 32.51 fps, 9.57 kb/s, eta 0:00:00  [87.5%] 105/120 frames, 33.49 fps, 9.34 kb/s, eta 0:00:00  [95.8%] 115/120 frames, 33.83 fps, 9.17 kb/s, eta 0:00:00                                                                                  x265 [info]: frame I:      1, Avg QP:49.00  kb/s: 119.86  
+x265 [info]: frame P:     94, Avg QP:50.00  kb/s: 8.11    
+x265 [info]: frame B:     25, Avg QP:51.00  kb/s: 2.53    
+x265 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x265 [info]: consecutive B-frames: 73.7% 26.3% 0.0% 0.0% 0.0% 
+
+encoded 120 frames in 3.50s (34.27 fps), 7.88 kb/s, Avg QP:50.20
+yuv  [info]: 640x360 fps 6000/1000 i420p8 frames 0 - 119 of 120
+raw  [info]: output file: ../test.mp4
+x265 [info]: HEVC encoder version 3.2.1+1-b5c86a64bbbe
+x265 [info]: build info [Linux][GCC 9.3.0][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: none!
+x265 [info]: Main profile, Level-2.1 (Main tier)
+x265 [info]: Thread pool created using 5 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 3 / wpp(6 rows)
+x265 [info]: Thread pool created using 3 threads
+x265 [warning]: VBV is incompatible with constant QP, ignored.
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 3 inter / 3 intra
+x265 [info]: ME / range / subpel / merge         : hex / 57 / 4 / 5
+x265 [info]: Keyframe min / max / scenecut / bias: 27 / 220 / 10 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 48 / 4 / 0
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 5 / off / off
+x265 [info]: Rate Control                        : CQP-20
+x265 [info]: tools: rect amp rd=6 psy-rd=5.00 rdoq=2 rskip signhide tmvp
+x265 [info]: tools: b-intra strong-intra-smoothing lthreads=3
+x265 [info]: tools: deblock(tC=-1:B=-1) sao
+[0.8%] 1/120 frames, 1.54 fps, 1467.79 kb/s, eta 0:01:17  [1.7%] 2/120 frames, 0.96 fps, 1409.11 kb/s, eta 0:02:03  [2.5%] 3/120 frames, 0.92 fps, 991.25 kb/s, eta 0:02:06  [3.3%] 4/120 frames, 0.75 fps, 761.87 kb/s, eta 0:02:35  [5.8%] 7/120 frames, 0.91 fps, 674.20 kb/s, eta 0:02:03  [6.7%] 8/120 frames, 0.86 fps, 620.48 kb/s, eta 0:02:09  [7.5%] 9/120 frames, 0.67 fps, 629.32 kb/s, eta 0:02:46  [10.0%] 12/120 frames, 0.72 fps, 632.20 kb/s, eta 0:02:30  [10.8%] 13/120 frames, 0.71 fps, 599.82 kb/s, eta 0:02:30  [11.7%] 14/120 frames, 0.66 fps, 561.21 kb/s, eta 0:02:41  [14.2%] 17/120 frames, 0.69 fps, 564.90 kb/s, eta 0:02:30  [15.0%] 18/120 frames, 0.65 fps, 593.43 kb/s, eta 0:02:37  [15.8%] 19/120 frames, 0.63 fps, 566.13 kb/s, eta 0:02:40  [17.5%] 21/120 frames, 0.67 fps, 525.87 kb/s, eta 0:02:26  [18.3%] 22/120 frames, 0.65 fps, 563.02 kb/s, eta 0:02:29  [19.2%] 23/120 frames, 0.65 fps, 548.26 kb/s, eta 0:02:28  [20.0%] 24/120 frames, 0.65 fps, 528.45 kb/s, eta 0:02:28  [20.8%] 25/120 frames, 0.66 fps, 512.65 kb/s, eta 0:02:24  [21.7%] 26/120 frames, 0.67 fps, 500.03 kb/s, eta 0:02:19  [22.5%] 27/120 frames, 0.66 fps, 530.12 kb/s, eta 0:02:20  [23.3%] 28/120 frames, 0.65 fps, 525.87 kb/s, eta 0:02:20  [24.2%] 29/120 frames, 0.64 fps, 510.40 kb/s, eta 0:02:21  [25.8%] 31/120 frames, 0.66 fps, 490.61 kb/s, eta 0:02:14  [26.7%] 32/120 frames, 0.66 fps, 522.31 kb/s, eta 0:02:13  [27.5%] 33/120 frames, 0.65 fps, 515.42 kb/s, eta 0:02:13  [28.3%] 34/120 frames, 0.65 fps, 502.47 kb/s, eta 0:02:12  [29.2%] 35/120 frames, 0.65 fps, 489.97 kb/s, eta 0:02:09  [30.0%] 36/120 frames, 0.67 fps, 481.77 kb/s, eta 0:02:05  [30.8%] 37/120 frames, 0.66 fps, 506.46 kb/s, eta 0:02:05  [31.7%] 38/120 frames, 0.65 fps, 503.22 kb/s, eta 0:02:05  [32.5%] 39/120 frames, 0.64 fps, 492.99 kb/s, eta 0:02:05  [33.3%] 40/120 frames, 0.66 fps, 482.91 kb/s, eta 0:02:02  [35.0%] 42/120 frames, 0.66 fps, 489.48 kb/s, eta 0:01:58  [35.8%] 43/120 frames, 0.65 fps, 484.37 kb/s, eta 0:01:57  [36.7%] 44/120 frames, 0.65 fps, 475.31 kb/s, eta 0:01:57  [37.5%] 45/120 frames, 0.66 fps, 467.06 kb/s, eta 0:01:53  [39.2%] 47/120 frames, 0.66 fps, 465.26 kb/s, eta 0:01:50  [40.0%] 48/120 frames, 0.65 fps, 462.28 kb/s, eta 0:01:49  [40.8%] 49/120 frames, 0.64 fps, 454.53 kb/s, eta 0:01:50  [43.3%] 52/120 frames, 0.65 fps, 451.43 kb/s, eta 0:01:44  [44.2%] 53/120 frames, 0.65 fps, 447.30 kb/s, eta 0:01:42  [45.0%] 54/120 frames, 0.64 fps, 440.36 kb/s, eta 0:01:43  [47.5%] 57/120 frames, 0.65 fps, 434.36 kb/s, eta 0:01:36  [48.3%] 58/120 frames, 0.64 fps, 440.80 kb/s, eta 0:01:36  [49.2%] 59/120 frames, 0.64 fps, 434.51 kb/s, eta 0:01:35  [50.0%] 60/120 frames, 0.64 fps, 428.38 kb/s, eta 0:01:33  [50.8%] 61/120 frames, 0.65 fps, 424.55 kb/s, eta 0:01:31  [51.7%] 62/120 frames, 0.65 fps, 430.75 kb/s, eta 0:01:29  [52.5%] 63/120 frames, 0.64 fps, 429.00 kb/s, eta 0:01:28  [53.3%] 64/120 frames, 0.64 fps, 423.51 kb/s, eta 0:01:27  [55.0%] 66/120 frames, 0.65 fps, 420.35 kb/s, eta 0:01:23  [55.8%] 67/120 frames, 0.65 fps, 424.39 kb/s, eta 0:01:21  [56.7%] 68/120 frames, 0.64 fps, 422.84 kb/s, eta 0:01:21  [57.5%] 69/120 frames, 0.63 fps, 418.08 kb/s, eta 0:01:20  [60.0%] 72/120 frames, 0.64 fps, 416.85 kb/s, eta 0:01:14  [60.8%] 73/120 frames, 0.64 fps, 418.37 kb/s, eta 0:01:13  [61.7%] 74/120 frames, 0.63 fps, 413.67 kb/s, eta 0:01:12  [62.5%] 75/120 frames, 0.64 fps, 410.29 kb/s, eta 0:01:10  [64.2%] 77/120 frames, 0.64 fps, 412.46 kb/s, eta 0:01:07  [65.0%] 78/120 frames, 0.63 fps, 417.57 kb/s, eta 0:01:06  [65.8%] 79/120 frames, 0.63 fps, 413.32 kb/s, eta 0:01:04  [66.7%] 80/120 frames, 0.64 fps, 409.58 kb/s, eta 0:01:02  [67.5%] 81/120 frames, 0.64 fps, 405.96 kb/s, eta 0:01:00  [68.3%] 82/120 frames, 0.64 fps, 409.76 kb/s, eta 0:00:59  [69.2%] 83/120 frames, 0.64 fps, 406.41 kb/s, eta 0:00:58  [70.0%] 84/120 frames, 0.64 fps, 402.39 kb/s, eta 0:00:56  [70.8%] 85/120 frames, 0.64 fps, 398.43 kb/s, eta 0:00:54  [71.7%] 86/120 frames, 0.64 fps, 396.00 kb/s, eta 0:00:52  [72.5%] 87/120 frames, 0.64 fps, 400.33 kb/s, eta 0:00:51  [73.3%] 88/120 frames, 0.64 fps, 397.75 kb/s, eta 0:00:50  [74.2%] 89/120 frames, 0.63 fps, 394.13 kb/s, eta 0:00:48  [76.7%] 92/120 frames, 0.64 fps, 392.32 kb/s, eta 0:00:43  [77.5%] 93/120 frames, 0.64 fps, 393.67 kb/s, eta 0:00:42  [78.3%] 94/120 frames, 0.63 fps, 390.31 kb/s, eta 0:00:41  [79.2%] 95/120 frames, 0.64 fps, 387.94 kb/s, eta 0:00:39  [80.8%] 97/120 frames, 0.64 fps, 392.37 kb/s, eta 0:00:35  [81.7%] 98/120 frames, 0.64 fps, 390.43 kb/s, eta 0:00:34  [82.5%] 99/120 frames, 0.63 fps, 387.44 kb/s, eta 0:00:33  [83.3%] 100/120 frames, 0.64 fps, 388.54 kb/s, eta 0:00:31  [85.0%] 102/120 frames, 0.64 fps, 390.24 kb/s, eta 0:00:28  [85.8%] 103/120 frames, 0.64 fps, 388.77 kb/s, eta 0:00:26  [86.7%] 104/120 frames, 0.64 fps, 385.92 kb/s, eta 0:00:25  [88.3%] 106/120 frames, 0.65 fps, 381.53 kb/s, eta 0:00:21  [89.2%] 107/120 frames, 0.64 fps, 385.10 kb/s, eta 0:00:20  [90.0%] 108/120 frames, 0.64 fps, 383.12 kb/s, eta 0:00:18  [90.8%] 109/120 frames, 0.63 fps, 380.62 kb/s, eta 0:00:17  [93.3%] 112/120 frames, 0.64 fps, 381.58 kb/s, eta 0:00:12  [94.2%] 113/120 frames, 0.64 fps, 382.77 kb/s, eta 0:00:10  [95.0%] 114/120 frames, 0.63 fps, 380.23 kb/s, eta 0:00:09  [97.5%] 117/120 frames, 0.64 fps, 383.32 kb/s, eta 0:00:04  [98.3%] 118/120 frames, 0.64 fps, 381.14 kb/s, eta 0:00:03  [99.2%] 119/120 frames, 0.64 fps, 378.44 kb/s, eta 0:00:01  [100.0%] 120/120 frames, 0.64 fps, 380.76 kb/s, eta 0:00:00                                                                                  x265 [info]: frame I:      1, Avg QP:20.00  kb/s: 1365.17 
+x265 [info]: frame P:     24, Avg QP:20.00  kb/s: 1011.63 
+x265 [info]: frame B:     95, Avg QP:21.75  kb/s: 209.52  
+x265 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x265 [info]: consecutive B-frames: 4.0% 0.0% 0.0% 4.0% 92.0% 
+
+encoded 120 frames in 187.67s (0.64 fps), 379.57 kb/s, Avg QP:21.38
+yuv  [info]: 640x360 fps 6000/1000 i420p8 frames 0 - 119 of 120
+raw  [info]: output file: ../test.mp4
+x265 [info]: HEVC encoder version 3.2.1+1-b5c86a64bbbe
+x265 [info]: build info [Linux][GCC 9.3.0][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x265 [info]: Main profile, Level-2.1 (Main tier)
+x265 [info]: Thread pool created using 6 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 3 / wpp(12 rows)
+x265 [info]: Thread pool created using 2 threads
+x265 [warning]: Source height < 720p; disabling lookahead-slices
+x265 [warning]: VBV is incompatible with constant QP, ignored.
+x265 [info]: Coding QT: max CU size, min CU size : 32 / 16
+x265 [info]: Residual QT: max TU size, max depth : 32 / 1 inter / 1 intra
+x265 [info]: ME / range / subpel / merge         : dia / 57 / 0 / 2
+x265 [info]: Keyframe min / max / scenecut / bias: 27 / 280 / 40 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 38 / 4 / 1
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 0 / 1
+x265 [info]: References / ref-limit  cu / depth  : 5 / off / off
+x265 [info]: Rate Control                        : CQP-50
+x265 [info]: tools: rd=2 psy-rd=0.80 early-skip rskip tmvp fast-intra
+x265 [info]: tools: strong-intra-smoothing lthreads=2 deblock(tC=1:B=1)
+[0.8%] 1/120 frames, 7.92 fps, 290.50 kb/s, eta 0:00:15  [47.5%] 57/120 frames, 150.94 fps, 12.06 kb/s, eta 0:00:00                                                                                  x265 [info]: frame I:      1, Avg QP:46.00  kb/s: 187.01  
+x265 [info]: frame P:     94, Avg QP:50.00  kb/s: 7.77    
+x265 [info]: frame B:     25, Avg QP:52.00  kb/s: 3.27    
+x265 [info]: Weighted B-Frames: Y:0.0% UV:0.0%
+x265 [info]: consecutive B-frames: 73.7% 26.3% 0.0% 0.0% 0.0% 
+
+encoded 120 frames in 0.57s (210.22 fps), 8.33 kb/s, Avg QP:50.38
+yuv  [info]: 640x360 fps 6000/1000 i420p8 frames 0 - 119 of 120
+raw  [info]: output file: ../test.mp4
+x265 [info]: HEVC encoder version 3.2.1+1-b5c86a64bbbe
+x265 [info]: build info [Linux][GCC 9.3.0][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: none!
+x265 [info]: Main profile, Level-2.1 (Main tier)
+x265 [info]: Thread pool created using 8 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 3 / wpp(6 rows)
+x265 [warning]: VBV is incompatible with constant QP, ignored.
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 3 inter / 3 intra
+x265 [info]: ME / range / subpel / merge         : umh / 57 / 4 / 5
+x265 [info]: Keyframe min / max / scenecut / bias: 23 / 290 / 10 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 48 / 0 / 1
+x265 [info]: b-pyramid / weightp / weightb       : 0 / 1 / 1
+x265 [info]: References / ref-limit  cu / depth  : 3 / off / off
+x265 [info]: Rate Control                        : CQP-0
+x265 [info]: tools: rect amp rd=6 psy-rd=4.40 rdoq=2 rskip signhide tmvp
+x265 [info]: tools: b-intra strong-intra-smoothing deblock(tC=-2:B=-2) sao
+[0.8%] 1/120 frames, 1.51 fps, 4087.10 kb/s, eta 0:01:18  [1.7%] 2/120 frames, 1.04 fps, 2561.78 kb/s, eta 0:01:53  [2.5%] 3/120 frames, 0.84 fps, 1983.90 kb/s, eta 0:02:18  [3.3%] 4/120 frames, 0.74 fps, 1673.46 kb/s, eta 0:02:37  [4.2%] 5/120 frames, 0.70 fps, 1470.81 kb/s, eta 0:02:43  [5.0%] 6/120 frames, 0.68 fps, 1347.29 kb/s, eta 0:02:48  [5.8%] 7/120 frames, 0.59 fps, 1666.51 kb/s, eta 0:03:11  [6.7%] 8/120 frames, 0.54 fps, 1865.18 kb/s, eta 0:03:26  [7.5%] 9/120 frames, 0.53 fps, 1854.08 kb/s, eta 0:03:31  [8.3%] 10/120 frames, 0.51 fps, 1803.30 kb/s, eta 0:03:33  [9.2%] 11/120 frames, 0.51 fps, 1726.60 kb/s, eta 0:03:33  [10.0%] 12/120 frames, 0.51 fps, 1655.49 kb/s, eta 0:03:32  [10.8%] 13/120 frames, 0.51 fps, 1574.39 kb/s, eta 0:03:29  [11.7%] 14/120 frames, 0.51 fps, 1505.14 kb/s, eta 0:03:26  [12.5%] 15/120 frames, 0.51 fps, 1527.92 kb/s, eta 0:03:27  [13.3%] 16/120 frames, 0.50 fps, 1530.67 kb/s, eta 0:03:26  [14.2%] 17/120 frames, 0.50 fps, 1497.07 kb/s, eta 0:03:25  [15.0%] 18/120 frames, 0.50 fps, 1472.05 kb/s, eta 0:03:24  [15.8%] 19/120 frames, 0.49 fps, 1565.13 kb/s, eta 0:03:27  [16.7%] 20/120 frames, 0.49 fps, 1523.70 kb/s, eta 0:03:25  [17.5%] 21/120 frames, 0.49 fps, 1480.19 kb/s, eta 0:03:22  [18.3%] 22/120 frames, 0.49 fps, 1437.77 kb/s, eta 0:03:21  [19.2%] 23/120 frames, 0.49 fps, 1397.70 kb/s, eta 0:03:18  [20.0%] 24/120 frames, 0.49 fps, 1360.34 kb/s, eta 0:03:15  [20.8%] 25/120 frames, 0.50 fps, 1325.14 kb/s, eta 0:03:11  [21.7%] 26/120 frames, 0.50 fps, 1307.65 kb/s, eta 0:03:09  [22.5%] 27/120 frames, 0.50 fps, 1287.13 kb/s, eta 0:03:06  [23.3%] 28/120 frames, 0.50 fps, 1264.88 kb/s, eta 0:03:04  [24.2%] 29/120 frames, 0.50 fps, 1238.52 kb/s, eta 0:03:01  [25.0%] 30/120 frames, 0.50 fps, 1218.60 kb/s, eta 0:02:59  [25.8%] 31/120 frames, 0.50 fps, 1277.91 kb/s, eta 0:02:59  [26.7%] 32/120 frames, 0.49 fps, 1260.65 kb/s, eta 0:02:58  [27.5%] 33/120 frames, 0.50 fps, 1240.75 kb/s, eta 0:02:55  [28.3%] 34/120 frames, 0.50 fps, 1223.23 kb/s, eta 0:02:53  [29.2%] 35/120 frames, 0.50 fps, 1205.85 kb/s, eta 0:02:50  [30.0%] 36/120 frames, 0.49 fps, 1270.75 kb/s, eta 0:02:50  [30.8%] 37/120 frames, 0.49 fps, 1314.35 kb/s, eta 0:02:49  [31.7%] 38/120 frames, 0.49 fps, 1328.51 kb/s, eta 0:02:48  [32.5%] 39/120 frames, 0.49 fps, 1331.50 kb/s, eta 0:02:46  [33.3%] 40/120 frames, 0.48 fps, 1326.46 kb/s, eta 0:02:45  [34.2%] 41/120 frames, 0.48 fps, 1315.67 kb/s, eta 0:02:43  [35.0%] 42/120 frames, 0.48 fps, 1308.64 kb/s, eta 0:02:41  [35.8%] 43/120 frames, 0.48 fps, 1348.23 kb/s, eta 0:02:40  [36.7%] 44/120 frames, 0.48 fps, 1338.01 kb/s, eta 0:02:38  [37.5%] 45/120 frames, 0.48 fps, 1321.87 kb/s, eta 0:02:35  [38.3%] 46/120 frames, 0.48 fps, 1320.13 kb/s, eta 0:02:33  [39.2%] 47/120 frames, 0.48 fps, 1324.39 kb/s, eta 0:02:31  [40.0%] 48/120 frames, 0.48 fps, 1353.83 kb/s, eta 0:02:30  [40.8%] 49/120 frames, 0.48 fps, 1353.04 kb/s, eta 0:02:28  [41.7%] 50/120 frames, 0.48 fps, 1343.85 kb/s, eta 0:02:26  [42.5%] 51/120 frames, 0.48 fps, 1330.91 kb/s, eta 0:02:23  [43.3%] 52/120 frames, 0.48 fps, 1317.81 kb/s, eta 0:02:21  [44.2%] 53/120 frames, 0.48 fps, 1303.82 kb/s, eta 0:02:19  [45.0%] 54/120 frames, 0.48 fps, 1291.69 kb/s, eta 0:02:16  [45.8%] 55/120 frames, 0.48 fps, 1319.72 kb/s, eta 0:02:15  [46.7%] 56/120 frames, 0.48 fps, 1314.62 kb/s, eta 0:02:13  [47.5%] 57/120 frames, 0.48 fps, 1305.19 kb/s, eta 0:02:11  [48.3%] 58/120 frames, 0.48 fps, 1295.24 kb/s, eta 0:02:09  [49.2%] 59/120 frames, 0.48 fps, 1284.50 kb/s, eta 0:02:06  [50.0%] 60/120 frames, 0.48 fps, 1300.34 kb/s, eta 0:02:05  [50.8%] 61/120 frames, 0.48 fps, 1298.28 kb/s, eta 0:02:03  [51.7%] 62/120 frames, 0.48 fps, 1293.60 kb/s, eta 0:02:01  [52.5%] 63/120 frames, 0.48 fps, 1291.79 kb/s, eta 0:01:59  [53.3%] 64/120 frames, 0.48 fps, 1285.39 kb/s, eta 0:01:57  [54.2%] 65/120 frames, 0.47 fps, 1315.16 kb/s, eta 0:01:56  [55.0%] 66/120 frames, 0.47 fps, 1340.69 kb/s, eta 0:01:54  [55.8%] 67/120 frames, 0.47 fps, 1365.59 kb/s, eta 0:01:52  [56.7%] 68/120 frames, 0.47 fps, 1364.07 kb/s, eta 0:01:50  [57.5%] 69/120 frames, 0.47 fps, 1355.39 kb/s, eta 0:01:48  [58.3%] 70/120 frames, 0.47 fps, 1347.22 kb/s, eta 0:01:45  [59.2%] 71/120 frames, 0.47 fps, 1338.07 kb/s, eta 0:01:43  [60.0%] 72/120 frames, 0.47 fps, 1329.68 kb/s, eta 0:01:41  [60.8%] 73/120 frames, 0.47 fps, 1320.38 kb/s, eta 0:01:39  [61.7%] 74/120 frames, 0.47 fps, 1312.03 kb/s, eta 0:01:36  [62.5%] 75/120 frames, 0.48 fps, 1304.09 kb/s, eta 0:01:34  [63.3%] 76/120 frames, 0.48 fps, 1301.13 kb/s, eta 0:01:32  [64.2%] 77/120 frames, 0.47 fps, 1316.73 kb/s, eta 0:01:30  [65.0%] 78/120 frames, 0.47 fps, 1318.98 kb/s, eta 0:01:28  [65.8%] 79/120 frames, 0.47 fps, 1338.85 kb/s, eta 0:01:26  [66.7%] 80/120 frames, 0.47 fps, 1334.29 kb/s, eta 0:01:24  [67.5%] 81/120 frames, 0.47 fps, 1328.08 kb/s, eta 0:01:22  [68.3%] 82/120 frames, 0.47 fps, 1323.59 kb/s, eta 0:01:20  [69.2%] 83/120 frames, 0.47 fps, 1317.50 kb/s, eta 0:01:18  [70.0%] 84/120 frames, 0.47 fps, 1311.25 kb/s, eta 0:01:16  [70.8%] 85/120 frames, 0.47 fps, 1302.33 kb/s, eta 0:01:14  [71.7%] 86/120 frames, 0.47 fps, 1293.72 kb/s, eta 0:01:11  [72.5%] 87/120 frames, 0.47 fps, 1288.87 kb/s, eta 0:01:09  [73.3%] 88/120 frames, 0.47 fps, 1283.60 kb/s, eta 0:01:07  [74.2%] 89/120 frames, 0.47 fps, 1296.72 kb/s, eta 0:01:05  [75.0%] 90/120 frames, 0.47 fps, 1298.16 kb/s, eta 0:01:03  [75.8%] 91/120 frames, 0.47 fps, 1315.55 kb/s, eta 0:01:01  [76.7%] 92/120 frames, 0.47 fps, 1311.32 kb/s, eta 0:00:59  [77.5%] 93/120 frames, 0.47 fps, 1305.30 kb/s, eta 0:00:57  [78.3%] 94/120 frames, 0.47 fps, 1299.75 kb/s, eta 0:00:55  [79.2%] 95/120 frames, 0.47 fps, 1301.83 kb/s, eta 0:00:53  [80.0%] 96/120 frames, 0.47 fps, 1300.54 kb/s, eta 0:00:50  [80.8%] 97/120 frames, 0.47 fps, 1295.80 kb/s, eta 0:00:48  [81.7%] 98/120 frames, 0.47 fps, 1319.56 kb/s, eta 0:00:46  [82.5%] 99/120 frames, 0.47 fps, 1338.39 kb/s, eta 0:00:44  [83.3%] 100/120 frames, 0.47 fps, 1343.64 kb/s, eta 0:00:42  [84.2%] 101/120 frames, 0.47 fps, 1342.36 kb/s, eta 0:00:40  [85.0%] 102/120 frames, 0.47 fps, 1339.69 kb/s, eta 0:00:38  [85.8%] 103/120 frames, 0.47 fps, 1354.15 kb/s, eta 0:00:36  [86.7%] 104/120 frames, 0.47 fps, 1348.69 kb/s, eta 0:00:34  [87.5%] 105/120 frames, 0.47 fps, 1342.09 kb/s, eta 0:00:32  [88.3%] 106/120 frames, 0.47 fps, 1336.84 kb/s, eta 0:00:29  [89.2%] 107/120 frames, 0.47 fps, 1330.65 kb/s, eta 0:00:27  [90.0%] 108/120 frames, 0.47 fps, 1323.62 kb/s, eta 0:00:25  [90.8%] 109/120 frames, 0.47 fps, 1316.44 kb/s, eta 0:00:23  [91.7%] 110/120 frames, 0.47 fps, 1326.23 kb/s, eta 0:00:21  [92.5%] 111/120 frames, 0.47 fps, 1324.50 kb/s, eta 0:00:19  [93.3%] 112/120 frames, 0.47 fps, 1319.27 kb/s, eta 0:00:17  [94.2%] 113/120 frames, 0.47 fps, 1313.23 kb/s, eta 0:00:14  [95.0%] 114/120 frames, 0.47 fps, 1307.59 kb/s, eta 0:00:12  [95.8%] 115/120 frames, 0.47 fps, 1319.48 kb/s, eta 0:00:10  [96.7%] 116/120 frames, 0.47 fps, 1314.32 kb/s, eta 0:00:08  [97.5%] 117/120 frames, 0.47 fps, 1308.11 kb/s, eta 0:00:06  [98.3%] 118/120 frames, 0.47 fps, 1302.74 kb/s, eta 0:00:04  [99.2%] 119/120 frames, 0.47 fps, 1296.51 kb/s, eta 0:00:02  [100.0%] 120/120 frames, 0.47 fps, 1291.60 kb/s, eta 0:00:00                                                                                  x265 [info]: frame I:      1, Avg QP:0.00  kb/s: 3985.78 
+x265 [info]: frame P:    119, Avg QP:0.00  kb/s: 1267.77 
+x265 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x265 [info]: consecutive B-frames: 100.0% 
+
+encoded 120 frames in 254.17s (0.47 fps), 1290.42 kb/s, Avg QP:0.00
+yuv  [info]: 640x360 fps 6000/1000 i420p8 frames 0 - 119 of 120
+raw  [info]: output file: ../test.mp4
+x265 [info]: HEVC encoder version 3.2.1+1-b5c86a64bbbe
+x265 [info]: build info [Linux][GCC 9.3.0][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: none!
+x265 [info]: Main profile, Level-2.1 (Main tier)
+x265 [info]: Thread pool created using 5 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 3 / wpp(6 rows)
+x265 [info]: Thread pool created using 3 threads
+x265 [warning]: VBV is incompatible with constant QP, ignored.
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 4 inter / 4 intra
+x265 [info]: ME / range / subpel / merge         : hex / 92 / 5 / 5
+x265 [info]: Keyframe min / max / scenecut / bias: 24 / 230 / 0 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 28 / 14 / 0
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 4 / off / off
+x265 [info]: Rate Control                        : CQP-0
+x265 [info]: tools: rect amp rd=6 psy-rd=1.80 rdoq=2 tskip signhide tmvp
+x265 [info]: tools: b-intra strong-intra-smoothing lthreads=3
+x265 [info]: tools: deblock(tC=-2:B=-2) sao
+[0.8%] 1/120 frames, 1.26 fps, 4025.81 kb/s, eta 0:01:34  [1.7%] 2/120 frames, 0.59 fps, 4021.75 kb/s, eta 0:03:19  [2.5%] 3/120 frames, 0.43 fps, 3986.21 kb/s, eta 0:04:33  [3.3%] 4/120 frames, 0.30 fps, 3276.37 kb/s, eta 0:06:27  [4.2%] 5/120 frames, 0.36 fps, 3263.84 kb/s, eta 0:05:20  [5.8%] 7/120 frames, 0.33 fps, 3098.94 kb/s, eta 0:05:38  [6.7%] 8/120 frames, 0.36 fps, 3198.13 kb/s, eta 0:05:08  [8.3%] 10/120 frames, 0.37 fps, 3136.24 kb/s, eta 0:04:56  [10.0%] 12/120 frames, 0.41 fps, 2926.68 kb/s, eta 0:04:23  [10.8%] 13/120 frames, 0.39 fps, 2892.60 kb/s, eta 0:04:37  [12.5%] 15/120 frames, 0.40 fps, 2850.57 kb/s, eta 0:04:25  [13.3%] 16/120 frames, 0.39 fps, 2841.20 kb/s, eta 0:04:24  [15.0%] 18/120 frames, 0.40 fps, 2937.92 kb/s, eta 0:04:11  [15.8%] 19/120 frames, 0.38 fps, 2860.13 kb/s, eta 0:04:24  [16.7%] 20/120 frames, 0.36 fps, 2885.60 kb/s, eta 0:04:33  [17.5%] 21/120 frames, 0.38 fps, 2925.34 kb/s, eta 0:04:20  [18.3%] 22/120 frames, 0.37 fps, 2966.63 kb/s, eta 0:04:21  [19.2%] 23/120 frames, 0.37 fps, 2890.81 kb/s, eta 0:04:19  [20.8%] 25/120 frames, 0.38 fps, 2733.68 kb/s, eta 0:04:08  [21.7%] 26/120 frames, 0.39 fps, 2658.44 kb/s, eta 0:03:59  [22.5%] 27/120 frames, 0.39 fps, 2610.06 kb/s, eta 0:04:01  [23.3%] 28/120 frames, 0.38 fps, 2647.51 kb/s, eta 0:04:01  [24.2%] 29/120 frames, 0.39 fps, 2677.36 kb/s, eta 0:03:51  [25.0%] 30/120 frames, 0.37 fps, 2663.07 kb/s, eta 0:04:00  [25.8%] 31/120 frames, 0.38 fps, 2641.10 kb/s, eta 0:03:52  [27.5%] 33/120 frames, 0.39 fps, 2705.21 kb/s, eta 0:03:45  [28.3%] 34/120 frames, 0.37 fps, 2665.41 kb/s, eta 0:03:55  [30.8%] 37/120 frames, 0.36 fps, 2661.46 kb/s, eta 0:03:50  [33.3%] 40/120 frames, 0.37 fps, 2642.09 kb/s, eta 0:03:37  [35.0%] 42/120 frames, 0.37 fps, 2636.60 kb/s, eta 0:03:29  [35.8%] 43/120 frames, 0.37 fps, 2666.49 kb/s, eta 0:03:29  [37.5%] 45/120 frames, 0.37 fps, 2659.85 kb/s, eta 0:03:21  [38.3%] 46/120 frames, 0.37 fps, 2627.89 kb/s, eta 0:03:19  [40.0%] 48/120 frames, 0.38 fps, 2666.62 kb/s, eta 0:03:11  [40.8%] 49/120 frames, 0.36 fps, 2646.08 kb/s, eta 0:03:16  [43.3%] 52/120 frames, 0.36 fps, 2619.47 kb/s, eta 0:03:08  [45.8%] 55/120 frames, 0.36 fps, 2580.64 kb/s, eta 0:02:58  [47.5%] 57/120 frames, 0.37 fps, 2591.22 kb/s, eta 0:02:50  [48.3%] 58/120 frames, 0.36 fps, 2602.54 kb/s, eta 0:02:51  [50.0%] 60/120 frames, 0.37 fps, 2593.40 kb/s, eta 0:02:40  [50.8%] 61/120 frames, 0.37 fps, 2576.03 kb/s, eta 0:02:39  [52.5%] 63/120 frames, 0.37 fps, 2604.76 kb/s, eta 0:02:34  [53.3%] 64/120 frames, 0.36 fps, 2580.56 kb/s, eta 0:02:33  [54.2%] 65/120 frames, 0.36 fps, 2576.74 kb/s, eta 0:02:31  [55.8%] 67/120 frames, 0.36 fps, 2614.60 kb/s, eta 0:02:27  [58.3%] 70/120 frames, 0.36 fps, 2590.00 kb/s, eta 0:02:19  [60.8%] 73/120 frames, 0.36 fps, 2527.51 kb/s, eta 0:02:10  [63.3%] 76/120 frames, 0.37 fps, 2520.61 kb/s, eta 0:02:00  [64.2%] 77/120 frames, 0.37 fps, 2530.03 kb/s, eta 0:01:56  [65.0%] 78/120 frames, 0.36 fps, 2548.07 kb/s, eta 0:01:55  [65.8%] 79/120 frames, 0.35 fps, 2554.02 kb/s, eta 0:01:56  [68.3%] 82/120 frames, 0.35 fps, 2597.22 kb/s, eta 0:01:47  [69.2%] 83/120 frames, 0.36 fps, 2611.63 kb/s, eta 0:01:44  [70.0%] 84/120 frames, 0.36 fps, 2624.49 kb/s, eta 0:01:40  [70.8%] 85/120 frames, 0.36 fps, 2605.01 kb/s, eta 0:01:38  [71.7%] 86/120 frames, 0.36 fps, 2583.25 kb/s, eta 0:01:34  [73.3%] 88/120 frames, 0.36 fps, 2580.20 kb/s, eta 0:01:29  [74.2%] 89/120 frames, 0.36 fps, 2590.15 kb/s, eta 0:01:26  [75.8%] 91/120 frames, 0.36 fps, 2595.94 kb/s, eta 0:01:20  [76.7%] 92/120 frames, 0.36 fps, 2602.48 kb/s, eta 0:01:17  [77.5%] 93/120 frames, 0.36 fps, 2618.22 kb/s, eta 0:01:15  [78.3%] 94/120 frames, 0.35 fps, 2608.26 kb/s, eta 0:01:13  [79.2%] 95/120 frames, 0.35 fps, 2600.20 kb/s, eta 0:01:10  [80.0%] 96/120 frames, 0.36 fps, 2596.71 kb/s, eta 0:01:07  [80.8%] 97/120 frames, 0.36 fps, 2609.74 kb/s, eta 0:01:04  [81.7%] 98/120 frames, 0.35 fps, 2622.47 kb/s, eta 0:01:02  [83.3%] 100/120 frames, 0.36 fps, 2637.94 kb/s, eta 0:00:56  [84.2%] 101/120 frames, 0.35 fps, 2636.04 kb/s, eta 0:00:54  [85.0%] 102/120 frames, 0.35 fps, 2642.94 kb/s, eta 0:00:50  [85.8%] 103/120 frames, 0.35 fps, 2655.03 kb/s, eta 0:00:48  [86.7%] 104/120 frames, 0.35 fps, 2664.30 kb/s, eta 0:00:45  [87.5%] 105/120 frames, 0.36 fps, 2650.22 kb/s, eta 0:00:42  [88.3%] 106/120 frames, 0.36 fps, 2633.43 kb/s, eta 0:00:39  [89.2%] 107/120 frames, 0.36 fps, 2638.98 kb/s, eta 0:00:36  [90.0%] 108/120 frames, 0.35 fps, 2649.94 kb/s, eta 0:00:33  [90.8%] 109/120 frames, 0.35 fps, 2633.46 kb/s, eta 0:00:31  [91.7%] 110/120 frames, 0.35 fps, 2620.93 kb/s, eta 0:00:28  [92.5%] 111/120 frames, 0.35 fps, 2630.92 kb/s, eta 0:00:25  [93.3%] 112/120 frames, 0.35 fps, 2640.88 kb/s, eta 0:00:22  [94.2%] 113/120 frames, 0.35 fps, 2630.29 kb/s, eta 0:00:19  [95.0%] 114/120 frames, 0.35 fps, 2619.46 kb/s, eta 0:00:16  [95.8%] 115/120 frames, 0.35 fps, 2605.51 kb/s, eta 0:00:14  [96.7%] 116/120 frames, 0.35 fps, 2603.47 kb/s, eta 0:00:11  [97.5%] 117/120 frames, 0.35 fps, 2602.18 kb/s, eta 0:00:08  [98.3%] 118/120 frames, 0.35 fps, 2610.58 kb/s, eta 0:00:05  [99.2%] 119/120 frames, 0.36 fps, 2604.14 kb/s, eta 0:00:02  [100.0%] 120/120 frames, 0.36 fps, 2596.14 kb/s, eta 0:00:00                                                                                  x265 [info]: frame I:      1, Avg QP:0.00  kb/s: 3924.19 
+x265 [info]: frame P:      8, Avg QP:0.00  kb/s: 3387.46 
+x265 [info]: frame B:    111, Avg QP:0.00  kb/s: 2526.02 
+x265 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x265 [info]: consecutive B-frames: 11.1% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 11.1% 77.8% 
+
+encoded 120 frames in 336.09s (0.36 fps), 2595.10 kb/s, Avg QP:0.00
+yuv  [info]: 640x360 fps 6000/1000 i420p8 frames 0 - 119 of 120
+raw  [info]: output file: ../test.mp4
+x265 [info]: HEVC encoder version 3.2.1+1-b5c86a64bbbe
+x265 [info]: build info [Linux][GCC 9.3.0][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: none!
+x265 [info]: Main profile, Level-2.1 (Main tier)
+x265 [info]: Thread pool created using 8 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 3 / wpp(6 rows)
+x265 [warning]: VBV is incompatible with constant QP, ignored.
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 3 inter / 3 intra
+x265 [info]: ME / range / subpel / merge         : umh / 57 / 4 / 4
+x265 [info]: Keyframe min / max / scenecut / bias: 28 / 250 / 10 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 18 / 10 / 0
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 1
+x265 [info]: References / ref-limit  cu / depth  : 4 / off / on
+x265 [info]: Rate Control                        : CQP-20
+x265 [info]: tools: rect amp limit-modes rd=6 psy-rd=0.40 rdoq=2 psy-rdoq=1.00
+x265 [info]: tools: rskip limit-tu=4 signhide tmvp b-intra
+x265 [info]: tools: strong-intra-smoothing deblock(tC=-2:B=-2) sao
+[0.8%] 1/120 frames, 1.85 fps, 1621.68 kb/s, eta 0:01:04  [1.7%] 2/120 frames, 0.98 fps, 1475.83 kb/s, eta 0:02:00  [2.5%] 3/120 frames, 0.80 fps, 1309.63 kb/s, eta 0:02:27  [3.3%] 4/120 frames, 0.73 fps, 1006.16 kb/s, eta 0:02:38  [5.8%] 7/120 frames, 0.96 fps, 630.79 kb/s, eta 0:01:57  [8.3%] 10/120 frames, 1.11 fps, 478.63 kb/s, eta 0:01:39  [10.8%] 13/120 frames, 1.21 fps, 420.65 kb/s, eta 0:01:28  [11.7%] 14/120 frames, 1.12 fps, 414.29 kb/s, eta 0:01:34  [12.5%] 15/120 frames, 1.05 fps, 390.23 kb/s, eta 0:01:40  [15.0%] 18/120 frames, 1.12 fps, 334.06 kb/s, eta 0:01:31  [16.7%] 20/120 frames, 1.20 fps, 312.95 kb/s, eta 0:01:23  [17.5%] 21/120 frames, 1.15 fps, 305.60 kb/s, eta 0:01:26  [20.0%] 24/120 frames, 1.17 fps, 304.48 kb/s, eta 0:01:22  [20.8%] 25/120 frames, 1.07 fps, 325.01 kb/s, eta 0:01:28  [21.7%] 26/120 frames, 1.03 fps, 315.08 kb/s, eta 0:01:31  [23.3%] 28/120 frames, 1.08 fps, 299.59 kb/s, eta 0:01:24  [24.2%] 29/120 frames, 1.06 fps, 291.49 kb/s, eta 0:01:25  [25.8%] 31/120 frames, 1.11 fps, 277.24 kb/s, eta 0:01:20  [26.7%] 32/120 frames, 1.09 fps, 271.56 kb/s, eta 0:01:21  [28.3%] 34/120 frames, 1.14 fps, 260.30 kb/s, eta 0:01:15  [29.2%] 35/120 frames, 1.11 fps, 270.28 kb/s, eta 0:01:16  [30.0%] 36/120 frames, 1.07 fps, 280.39 kb/s, eta 0:01:18  [30.8%] 37/120 frames, 1.04 fps, 274.68 kb/s, eta 0:01:19  [31.7%] 38/120 frames, 1.03 fps, 281.29 kb/s, eta 0:01:19  [33.3%] 40/120 frames, 1.06 fps, 274.39 kb/s, eta 0:01:15  [34.2%] 41/120 frames, 1.06 fps, 269.84 kb/s, eta 0:01:14  [35.8%] 43/120 frames, 1.09 fps, 260.93 kb/s, eta 0:01:10  [36.7%] 44/120 frames, 1.07 fps, 256.90 kb/s, eta 0:01:10  [38.3%] 46/120 frames, 1.09 fps, 256.29 kb/s, eta 0:01:07  [39.2%] 47/120 frames, 1.07 fps, 260.68 kb/s, eta 0:01:08  [40.0%] 48/120 frames, 1.04 fps, 256.68 kb/s, eta 0:01:09  [42.5%] 51/120 frames, 1.07 fps, 246.22 kb/s, eta 0:01:04  [44.2%] 53/120 frames, 1.09 fps, 239.25 kb/s, eta 0:01:01  [45.0%] 54/120 frames, 1.07 fps, 236.48 kb/s, eta 0:01:01  [47.5%] 57/120 frames, 1.09 fps, 236.92 kb/s, eta 0:00:57  [48.3%] 58/120 frames, 1.07 fps, 242.61 kb/s, eta 0:00:58  [49.2%] 59/120 frames, 1.05 fps, 239.61 kb/s, eta 0:00:58  [51.7%] 62/120 frames, 1.07 fps, 231.36 kb/s, eta 0:00:54  [53.3%] 64/120 frames, 1.09 fps, 226.65 kb/s, eta 0:00:51  [54.2%] 65/120 frames, 1.08 fps, 225.00 kb/s, eta 0:00:51  [55.0%] 66/120 frames, 1.07 fps, 231.12 kb/s, eta 0:00:50  [56.7%] 68/120 frames, 1.09 fps, 235.25 kb/s, eta 0:00:47  [57.5%] 69/120 frames, 1.07 fps, 239.38 kb/s, eta 0:00:47  [58.3%] 70/120 frames, 1.05 fps, 236.78 kb/s, eta 0:00:47  [60.8%] 73/120 frames, 1.07 fps, 230.35 kb/s, eta 0:00:44  [63.3%] 76/120 frames, 1.08 fps, 224.18 kb/s, eta 0:00:40  [65.8%] 79/120 frames, 1.09 fps, 224.00 kb/s, eta 0:00:37  [66.7%] 80/120 frames, 1.07 fps, 227.63 kb/s, eta 0:00:37  [67.5%] 81/120 frames, 1.06 fps, 225.51 kb/s, eta 0:00:36  [70.0%] 84/120 frames, 1.07 fps, 220.48 kb/s, eta 0:00:33  [72.5%] 87/120 frames, 1.08 fps, 215.42 kb/s, eta 0:00:30  [75.0%] 90/120 frames, 1.08 fps, 217.66 kb/s, eta 0:00:27  [75.8%] 91/120 frames, 1.07 fps, 220.84 kb/s, eta 0:00:27  [76.7%] 92/120 frames, 1.05 fps, 219.18 kb/s, eta 0:00:26  [79.2%] 95/120 frames, 1.06 fps, 215.00 kb/s, eta 0:00:23  [81.7%] 98/120 frames, 1.07 fps, 211.04 kb/s, eta 0:00:20  [82.5%] 99/120 frames, 1.07 fps, 213.43 kb/s, eta 0:00:19  [84.2%] 101/120 frames, 1.08 fps, 215.46 kb/s, eta 0:00:17  [85.0%] 102/120 frames, 1.06 fps, 218.97 kb/s, eta 0:00:16  [85.8%] 103/120 frames, 1.05 fps, 217.74 kb/s, eta 0:00:16  [87.5%] 105/120 frames, 1.06 fps, 215.54 kb/s, eta 0:00:14  [88.3%] 106/120 frames, 1.06 fps, 214.23 kb/s, eta 0:00:13  [90.0%] 108/120 frames, 1.07 fps, 211.61 kb/s, eta 0:00:11  

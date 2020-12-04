@@ -6,7 +6,7 @@ inputlocation="$1"
 outputlocation="./video$numb.mp4"
 inputconf="$2"
 
-{ time x265  --constrained-intra --no-weightb --aq-strength 1.0 --ipratio 1.0 --pbratio 1.1 --psy-rd 2.2 --qblur 0.4 --qcomp 0.6 --vbv-init 0.3 --aq-mode 3 --b-adapt 1 --bframes 14 --crf 45 --keyint 290 --lookahead-threads 0 --min-keyint 21 --qp 30 --qpstep 3 --qpmin 4 --qpmax 63 --rc-lookahead 18 --ref 5 --vbv-bufsize 2000 --deblock -2:-2 --me umh --overscan crop --preset fast --scenecut 0 --tune grain --output $outputlocation $inputconf $inputlocation ; } 2> $logfilename
+{ time x265  --constrained-intra --no-asm --slow-firstpass --no-weightb --aq-strength 3.0 --ipratio 1.1 --pbratio 1.0 --psy-rd 4.6 --qblur 0.3 --qcomp 0.8 --vbv-init 0.9 --aq-mode 3 --b-adapt 2 --bframes 16 --crf 5 --keyint 300 --lookahead-threads 3 --min-keyint 20 --qp 10 --qpstep 3 --qpmin 2 --qpmax 62 --rc-lookahead 18 --ref 3 --vbv-bufsize 2000 --deblock -2:-2 --me umh --overscan crop --preset slower --scenecut 40 --tune psnr --output $outputlocation $inputconf $inputlocation ; } 2> $logfilename
 # extract output video size
 size=`ls -lrt $outputlocation | awk '{print $5}'`
 # analyze log to extract relevant timing information and CPU usage
@@ -16,6 +16,6 @@ persec=`grep "encoded" $logfilename | sed 's/encoded// ; s/fps)// ; s/(/,/; s//,
 # clean
 rm $outputlocation
 
-csvLine="$numb,None,--constrained-intra,None,None,None,--no-weightb,1.0,1.0,1.1,2.2,0.4,0.6,0.3,3,1,14,45,290,0,21,30,3,4,63,18,5,2000,-2:-2,umh,crop,fast,0,grain,"
+csvLine="$numb,None,--constrained-intra,None,--no-asm,--slow-firstpass,--no-weightb,3.0,1.1,1.0,4.6,0.3,0.8,0.9,3,2,16,5,300,3,20,10,3,2,62,18,3,2000,-2:-2,umh,crop,slower,40,psnr,"
 csvLine+="$size,$time,$persec"
 echo "$csvLine"
