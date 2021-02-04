@@ -2,11 +2,15 @@
 
 ### 1 - About the experiment
 
-#### 1- a] Goal
+#### 1- a] Task
 
-Study differences and similarities between *x264* and *x265*'s encoding.
+Video transcoding : we transcode .mkv videos into the .mp4 format.
 
-#### 1- b] Configuration options
+#### 1- b] Software
+
+Study differences and similarities between *x264* and *x265*'s encoding and decoding. 
+
+#### 1- c] Configuration options
 
 We leverage **33 common configuration options** between *x264*and *x265* :
 
@@ -76,18 +80,39 @@ We leverage **33 common configuration options** between *x264*and *x265* :
 
 - ``--weightb``: ['--weightb', '--no-weightb']
 
-
 The file diff_x264_x265.md in the test folder contains the list of configuration options common to *x264* and *x265*. We did not consider all of them since many of them do not have a direct influence on performances (e.g. ``--version`` or ``--help``), and due to the resulting configuration space (i.e. too large to be efficiently sampled).
 
-#### 1- c] Configuration space
+#### 1- d] Configuration space
 
-The file x264_x265_options.ipynb details the generation of the chosen 5000 configurations. The configurations are the same for *x264* and *x265*. We validate the sampling by applying one-sample Kolmogorov-Smirnov tests (compare the cumulative distributive functions of the generated distribution to the theorical uniform distribution, and check if the results are consistent). 
+The file x264_x265_options.ipynb details the generation of the chosen 5000 configurations. The configurations are the same for *x264* and *x265*. We validate the sampling by applying one-sample Kolmogorov-Smirnov tests (compare the cumulative distributive functions of the generated distribution to the theorical uniform distribution, and check if the results are consistent).
 
 Each configuration (e.g. configuration n°1) is launched by a ``.sh`` file, in the script folder (resp. the 1.sh in the x264 folder for x264). Due to the difference of logs between *x264* and *x265*, we separate the scripts measuring *x264*'s performance from the *x265*'s scripts. However, the measurement process could be optimized (TODO = unify the script with if condition depending on software).
 
-#### 1- d] Performances
+#### 1- e] Input Data
 
-We save the size of the encoded video (kb), the elapsed time of the encoding (seconds), the average number of frames encoded per second (number), the bitrate (kb/s)
+We extract four couples of videos, originally extracted from the Youtube UGC Dataset[1], based on the results of [this experience](https://zenodo.org/record/3928253).
+
+- Group 1 : "Action video"
+Gaming_360P-56fe
+Sports_360P-4545
+
+- Group 2 : "Big image"
+Animation_480P-087e
+CoverSong_360P-5d20
+
+- Group 3 : "Still image"
+Lecture_360P-114f
+MusicVideo_360P-5699
+
+- Group 4 : "Others/standard"
+LiveMusic_360P-1d94
+LyricVideo_360P-5e87
+
+[1] Youtube ugc dataset for video compression research,Yilin Wang and Sasi Inguva and Balu Adsumilli, 2019 IEEE 21st International Workshop on Multimedia Signal Processing (MMSP), 2019, IEEE
+
+#### 1- f] Performances
+
+We save the size of the encoded video (kb), the elapsed time of the encoding (seconds), the average number of frames encoded per second (number), the bitrate (kb/s).
 
 ### 2 - Replication and reproduction
 
@@ -101,7 +126,7 @@ Same for x265:
 
 ``bash launchMeasures.sh x265``
 
-You can add videos by editing the listVideo.csv file.
+You can add videos by editing the listVideo.csv file, and add them in the inputs directory.
 
 #### 2- b] Docker
 

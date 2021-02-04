@@ -1,0 +1,42 @@
+cat /etc/os-release
+
+NAME="Ubuntu"
+VERSION="20.04.1 LTS (Focal Fossa)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 20.04.1 LTS"
+VERSION_ID="20.04"
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=focal
+UBUNTU_CODENAME=focal
+
+
+hostnamectl
+
+Static hostname: ****
+Icon name: computer-server
+Chassis: server
+Machine ID: ****
+Boot ID: ****
+Operating System: Ubuntu 20.04.1 LTS
+Kernel: Linux 5.4.0-48-generic
+Architecture: x86-64
+
+
+uname -r
+
+5.4.0-48-generic
+
+
+cat /proc/version
+
+Linux version 5.4.0-48-generic (buildd@lcy01-amd64-010) (gcc version 9.3.0 (Ubuntu 9.3.0-10ubuntu2)) #52-Ubuntu SMP Thu Sep 10 10:58:49 UTC 2020
+
+cat /etc/*_version
+
+bullseye/sid
+Ubuntu 20.04.1 LTS (Focal Fossa)
+

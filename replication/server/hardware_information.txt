@@ -1,0 +1,168 @@
+lscpu
+
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   46 bits physical, 48 bits virtual
+CPU(s):                          8
+On-line CPU(s) list:             0-7
+Thread(s) per core:              2
+Core(s) per socket:              4
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           86
+Model name:                      Intel(R) Xeon(R) CPU D-1520 @ 2.20GHz
+Stepping:                        2
+CPU MHz:                         2501.283
+CPU max MHz:                     2600.0000
+CPU min MHz:                     800.0000
+BogoMIPS:                        4400.06
+Virtualization:                  VT-x
+L1d cache:                       128 KiB
+L1i cache:                       128 KiB
+L2 cache:                        1 MiB
+L3 cache:                        6 MiB
+NUMA node0 CPU(s):               0-7
+Vulnerability Itlb multihit:     KVM: Mitigation: Split huge pages
+Vulnerability L1tf:              Mitigation; PTE Inversion; VMX conditional cache flushes, SMT vulnerable
+Vulnerability Mds:               Mitigation; Clear CPU buffers; SMT vulnerable
+Vulnerability Meltdown:          Mitigation; PTI
+Vulnerability Spec store bypass: Mitigation; Speculative Store Bypass disabled via prctl and seccomp
+Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline, IBPB conditional, IBRS_FW, STIBP conditional, RSB filling
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Mitigation; Clear CPU buffers; SMT vulnerable
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon peb
+                                 s bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe p
+                                 opcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 invpcid_single pti intel_ppin ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriorit
+                                 y ept vpid ept_ad fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm rdt_a rdseed adx smap intel_pt xsaveopt cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dther
+                                 m ida arat pln pts md_clear flush_l1d
+                                 
+sudo lshw -short                            
+
+H/W path         Device     Class          Description
+======================================================
+                            system         Super Server (To be filled by O.E.M.)
+/0                          bus            X10SDV-4C-TLN2F
+/0/0                        memory         64KiB BIOS
+/0/19                       memory         32GiB System Memory
+/0/19/0                     memory         16GiB DIMM DDR4 Synchronous 2667 MHz (0.4 ns)
+/0/19/1                     memory         DIMM DDR4 Synchronous [empty]
+/0/19/2                     memory         16GiB DIMM DDR4 Synchronous 2667 MHz (0.4 ns)
+/0/19/3                     memory         DIMM DDR4 Synchronous [empty]
+/0/22                       memory         256KiB L2 cache
+/0/23                       memory         1MiB L3 cache
+/0/24                       memory         6MiB L4 cache
+/0/25                       processor      Intel(R) Xeon(R) CPU D-1520 @ 2.20GHz
+/0/100                      bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DMI2
+/0/100/1                    bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 1
+/0/100/2                    bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 2
+/0/100/2/0                  generic        Xeon Processor D Family QuickData Technology Register DMA Channel 0
+/0/100/2/0.1                generic        Xeon Processor D Family QuickData Technology Register DMA Channel 1
+/0/100/2/0.2                generic        Xeon Processor D Family QuickData Technology Register DMA Channel 2
+/0/100/2/0.3                generic        Xeon Processor D Family QuickData Technology Register DMA Channel 3
+/0/100/2.2                  bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 2
+/0/100/2.2/0     eno3       network        Ethernet Connection X552/X557-AT 10GBASE-T
+/0/100/2.2/0.1   eno4       network        Ethernet Connection X552/X557-AT 10GBASE-T
+/0/100/3                    bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 3
+/0/100/3.2                  bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 3
+/0/100/5                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Map/VTd_Misc/System Management
+/0/100/5.1                  generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO Hot Plug
+/0/100/5.2                  generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO RAS/Control Status/Global Errors
+/0/100/14                   bus            8 Series/C220 Series Chipset Family USB xHCI
+/0/100/14/0      usb3       bus            xHCI Host Controller
+/0/100/14/0/3               bus            USB2.0 Hub
+/0/100/14/0/4               bus            Hub
+/0/100/14/0/4/1             input          Keyboard
+/0/100/14/1      usb4       bus            xHCI Host Controller
+/0/100/16                   communication  8 Series/C220 Series Chipset Family MEI Controller #1
+/0/100/16.1                 communication  8 Series/C220 Series Chipset Family MEI Controller #2
+/0/100/1a                   bus            8 Series/C220 Series Chipset Family USB EHCI #2
+/0/100/1a/1      usb1       bus            EHCI Host Controller
+/0/100/1a/1/1               bus            USB hub
+/0/100/1c                   bridge         8 Series/C220 Series Chipset Family PCI Express Root Port #1
+/0/100/1c.4                 bridge         8 Series/C220 Series Chipset Family PCI Express Root Port #5
+/0/100/1c.4/0               bridge         AST1150 PCI-to-PCI Bridge
+/0/100/1c.4/0/0             display        ASPEED Graphics Family
+/0/100/1d                   bus            8 Series/C220 Series Chipset Family USB EHCI #1
+/0/100/1d/1      usb2       bus            EHCI Host Controller
+/0/100/1d/1/1               bus            USB hub
+/0/100/1f                   bridge         C224 Series Chipset Family Server Standard SKU LPC Controller
+/0/100/1f.2      scsi0      storage        8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]
+/0/100/1f.2/0    /dev/sda   disk           2TB HGST HUS726020AL
+/0/100/1f.2/0/1  /dev/sda1  volume         1004KiB BIOS Boot partition
+/0/100/1f.2/0/2  /dev/sda2  volume         1862GiB EXT4 volume
+/0/100/1f.2/0/3  /dev/sda3  volume         510MiB Linux swap volume
+/0/100/1f.2/0/4  /dev/sda4  volume         1023KiB EFI partition
+/0/100/1f.2/1    /dev/sdb   disk           2TB HGST HUS726020AL
+/0/100/1f.2/1/1  /dev/sdb1  volume         1004KiB BIOS Boot partition
+/0/100/1f.2/1/2  /dev/sdb2  volume         1862GiB EXT4 volume
+/0/100/1f.2/1/3  /dev/sdb3  volume         510MiB Linux swap volume
+/0/100/1f.2/2    /dev/sdc   disk           2TB HGST HUS726020AL
+/0/100/1f.2/2/1  /dev/sdc1  volume         1004KiB BIOS Boot partition
+/0/100/1f.2/2/2  /dev/sdc2  volume         1862GiB EXT4 volume
+/0/100/1f.2/2/3  /dev/sdc3  volume         510MiB Linux swap volume
+/0/100/1f.2/3    /dev/sdd   disk           2TB HGST HUS726020AL
+/0/100/1f.2/3/1  /dev/sdd1  volume         1004KiB BIOS Boot partition
+/0/100/1f.2/3/2  /dev/sdd2  volume         1862GiB EXT4 volume
+/0/100/1f.2/3/3  /dev/sdd3  volume         510MiB Linux swap volume
+/0/100/1f.3                 bus            8 Series/C220 Series Chipset Family SMBus Controller
+/0/100/1f.6                 generic        8 Series Chipset Family Thermal Management Controller
+/0/b                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/b.1                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/b.2                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/b.3                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link Debug
+/0/c                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/c.1                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/c.2                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/c.3                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/f                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/f.4                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/f.5                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/f.6                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/10                       generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+/0/10.1                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+/0/10.5                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/10.6                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/10.7                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/12                       generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+/0/12.1                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+/0/13                       generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+/0/13.1                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+/0/13.2                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/13.3                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/13.4                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/13.5                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/13.6                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Broadcast
+/0/13.7                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast
+/0/14                       generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Thermal Control
+/0/14.1                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Thermal Control
+/0/14.2                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Error
+/0/14.3                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Error
+/0/14.4                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/14.5                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/14.6                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/14.7                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/15                       generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 2 Thermal Control
+/0/15.1                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 3 Thermal Control
+/0/15.2                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 2 Error
+/0/15.3                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 3 Error
+/0/1e                       generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/1e.1                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/1e.2                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/1e.3                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/1e.4                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/1f                       generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/1f.2                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/1                        system         PnP device PNP0b00
+/0/2                        system         PnP device PNP0c02
+/0/3                        system         PnP device PNP0c02
+/0/4                        communication  PnP device PNP0501
+/0/5                        communication  PnP device PNP0501
+/1                          power          To Be Filled By O.E.M.
+/2                          power          To Be Filled By O.E.M.
+
+
+
