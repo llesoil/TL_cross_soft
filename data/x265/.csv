@@ -1,6 +1,0 @@
-configurationID,aud,constrained-intra,intra-refresh,no-asm,slow-firstpass,weightb,aq-strength,ipratio,pbratio,psy-rd,qblur,qcomp,vbv-init,aq-mode,b-adapt,bframes,crf,keyint,lookahead-threads,min-keyint,qp,qpstep,qpmin,qpmax,rc-lookahead,ref,vbv-bufsize,deblock,me,overscan,preset,scenecut,tune,size,user,system,elapsedtime,cpu,fps,kbs
-1,--aud,--constrained-intra,None,None,--slow-firstpass,--weightb,0.5,1.2,1.1,1.8,0.2,0.6,0.2,1,2,6,15,290,1,29,40,3,4,64,28,5,1000,1:1,hex,show,faster,10,animation,,0.00, 0.00, 0:00.00, 75,
-2,None,--constrained-intra,None,None,None,--weightb,0.0,1.4,1.1,4.6,0.5,0.9,0.7,0,0,4,15,250,0,26,20,3,3,62,38,2,2000,1:1,umh,crop,placebo,0,psnr,,0.00, 0.00, 0:00.00, 100,
-3,None,None,None,None,--slow-firstpass,--weightb,1.5,1.5,1.2,5.0,0.4,0.8,0.2,1,1,12,40,220,1,30,0,4,4,63,38,4,1000,-1:-1,dia,show,fast,0,animation,,0.00, 0.00, 0:00.00, 80,
-4,None,None,None,--no-asm,--slow-firstpass,--weightb,2.5,1.1,1.4,3.6,0.6,0.6,0.0,0,0,16,10,280,3,20,10,4,1,68,38,2,1000,-1:-1,umh,crop,placebo,30,ssim,,0.00, 0.00, 0:00.00, 100,
-5,None,None,None,--no-asm,None,--weightb,0.5,1.5,1.2,0.8,0.3,0.6,0.1,1,2,16,10,300,4,21,30,5,2,68,18,1,1000,-2:-2,umh,crop,slower,30,grain,,0.00, 0.00, 0:00.00, 100,
