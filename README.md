@@ -1,6 +1,6 @@
 # VaMoS 2022
 
-This repository contains the data, teh procedures and the replication bundle associated to our submission.
+This repository contains the data, the procedures and the replication bundle associated to our submission.
 
 ### Organisation
 
